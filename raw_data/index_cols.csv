@@ -1,0 +1,2022 @@
+,region_name,district_name,kanton_name
+0,Stetten (SH),Reiat,Schaffhausen
+1,Crissier,Ouest lausannois,Vaud
+2,Le Mont-sur-Lausanne,Lausanne,Vaud
+3,Sainte-Croix,Jura-Nord vaudois,Vaud
+4,Bauma,Pfäffikon,Zürich
+5,Turgi,Baden,Aargau
+6,Felben-Wellhausen,Frauenfeld,Thurgau
+7,Prilly,Ouest lausannois,Vaud
+8,Oberhallau,Unterklettgau,Schaffhausen
+9,Onnens (VD),Jura-Nord vaudois,Vaud
+10,Utzenstorf,Emmental,Bern / Berne
+11,Bovernier,Martigny,Valais / Wallis
+12,Fläsch,Landquart,Graubünden / Grigioni / Grischun
+13,Onsernone,Locarno,Ticino
+14,Vallon,La Broye,Fribourg / Freiburg
+15,Hausen (AG),Brugg,Aargau
+16,Kaltbrunn,See-Gaster,St. Gallen
+17,Lax,Goms,Valais / Wallis
+18,Kernenried,Emmental,Bern / Berne
+19,Savièse,Sion,Valais / Wallis
+20,Milvignes,Boudry,Neuchâtel
+21,Amlikon-Bissegg,Weinfelden,Thurgau
+22,Radelfingen,Seeland,Bern / Berne
+23,Finsterhennen,Seeland,Bern / Berne
+24,Seltisberg,Liestal,Basel-Landschaft
+25,Borex,Nyon,Vaud
+26,Zweisimmen,Obersimmental-Saanen,Bern / Berne
+27,San Vittore,Moesa,Graubünden / Grigioni / Grischun
+28,Cama,Moesa,Graubünden / Grigioni / Grischun
+29,Le Chenit,Jura-Nord vaudois,Vaud
+30,Duggingen,Laufen,Basel-Landschaft
+31,Schänis,See-Gaster,St. Gallen
+32,Grandval,Jura bernois,Bern / Berne
+33,Bettlach,Lebern,Solothurn
+34,Vevey,Riviera-Pays-d'Enhaut,Vaud
+35,Dallenwil,Kanton Nidwalden,Nidwalden
+36,Magden,Rheinfelden,Aargau
+37,Beatenberg,Interlaken-Oberhasli,Bern / Berne
+38,Reinach (BL),Arlesheim,Basel-Landschaft
+39,Le Noirmont,Les Franches-Montagnes,Jura
+40,Kriechenwil,Appenzell Ausserrhoden,Bern / Berne
+41,Emmetten,Kanton Nidwalden,Nidwalden
+42,Schlierbach,Sursee,Luzern
+43,Sarnen,Kanton Obwalden,Obwalden
+44,Böttstein,Zurzach,Aargau
+45,Krattigen,Frutigen-Niedersimmental,Bern / Berne
+46,Wintersingen,Sissach,Basel-Landschaft
+47,Bremgarten (AG),Bremgarten,Aargau
+48,Sils im Domleschg,Hinterrhein,Graubünden / Grigioni / Grischun
+49,Vechigen,Appenzell Ausserrhoden,Bern / Berne
+50,Leuggern,Zurzach,Aargau
+51,Cugy (VD),Gros-de-Vaud,Vaud
+52,Schneisingen,Zurzach,Aargau
+53,Le Mouret,La Sarine,Fribourg / Freiburg
+54,Oberkulm,Kulm,Aargau
+55,Pfyn,Frauenfeld,Thurgau
+56,Maggia,Vallemaggia,Ticino
+57,Sachseln,Kanton Obwalden,Obwalden
+58,Chavannes-des-Bois,Nyon,Vaud
+59,Hägendorf,Olten,Solothurn
+60,Egerkingen,Gäu,Solothurn
+61,Hellikon,Rheinfelden,Aargau
+62,Etagnières,Gros-de-Vaud,Vaud
+63,Sant'Antonino,Bellinzona,Ticino
+64,Effingen,Brugg,Aargau
+65,Champvent,Jura-Nord vaudois,Vaud
+66,Einsiedeln,Einsiedeln,Schwyz
+67,Thal,Rorschach,St. Gallen
+68,Castel San Pietro,Mendrisio,Ticino
+69,Bettmeralp,Raron,Valais / Wallis
+70,Wollerau,Höfe,Schwyz
+71,Cham,Kanton Zug,Zug
+72,Doppleschwand,Entlebuch,Luzern
+73,Vaulruz,La Gruyère,Fribourg / Freiburg
+74,Neuenegg,Appenzell Ausserrhoden,Bern / Berne
+75,Bolken,Wasseramt,Solothurn
+76,Vérossaz,Saint-Maurice,Valais / Wallis
+77,Greng,See / Lac,Fribourg / Freiburg
+78,Collonge-Bellerive,Canton de Genève,Genève
+79,Capriasca,Lugano,Ticino
+80,Turtmann-Unterems,Leuk,Valais / Wallis
+81,Pratteln,Liestal,Basel-Landschaft
+82,Grens,Nyon,Vaud
+83,Wiler bei Utzenstorf,Emmental,Bern / Berne
+84,Chavannes-près-Renens,Ouest lausannois,Vaud
+85,Morlon,La Gruyère,Fribourg / Freiburg
+86,Volken,Andelfingen,Zürich
+87,Wittenbach,St. Gallen,St. Gallen
+88,Torricella-Taverne,Lugano,Ticino
+89,Dürrenroth,Emmental,Bern / Berne
+90,Montpreveyres,Lavaux-Oron,Vaud
+91,Beggingen,Schleitheim,Schaffhausen
+92,Rüfenach,Brugg,Aargau
+93,Därstetten,Frutigen-Niedersimmental,Bern / Berne
+94,Mörschwil,Rorschach,St. Gallen
+95,Seedorf (BE),Seeland,Bern / Berne
+96,Brüttelen,Seeland,Bern / Berne
+97,Longirod,Nyon,Vaud
+98,Lotzwil,Oberaargau,Bern / Berne
+99,Uttwil,Arbon,Thurgau
+100,Hüttwilen,Frauenfeld,Thurgau
+101,Leuzigen,Seeland,Bern / Berne
+102,Mosnang,Toggenburg,St. Gallen
+103,Niederdorf,Waldenburg,Basel-Landschaft
+104,Solothurn,Solothurn,Solothurn
+105,Nottwil,Sursee,Luzern
+106,Châtel-Saint-Denis,La Veveyse,Fribourg / Freiburg
+107,Croy,Jura-Nord vaudois,Vaud
+108,Hagenbuch,Winterthur,Zürich
+109,Poliez-Pittet,Gros-de-Vaud,Vaud
+110,Cheseaux-sur-Lausanne,Lausanne,Vaud
+111,Dozwil,Arbon,Thurgau
+112,Etziken,Wasseramt,Solothurn
+113,Rekingen (AG),Zurzach,Aargau
+114,Horgen,Horgen,Zürich
+115,Soazza,Moesa,Graubünden / Grigioni / Grischun
+116,Aedermannsdorf,Thal,Solothurn
+117,Schlieren,Dietikon,Zürich
+118,Grächen,Visp,Valais / Wallis
+119,Chapelle (Glâne),La Glâne,Fribourg / Freiburg
+120,Feusisberg,Höfe,Schwyz
+121,Bitsch,Raron,Valais / Wallis
+122,Sembrancher,Entremont,Valais / Wallis
+123,Villarzel,Broye-Vully,Vaud
+124,Saint-Légier-La Chiésaz,Riviera-Pays-d'Enhaut,Vaud
+125,Seedorf (UR),Kanton Uri,Uri
+126,Löhningen,Oberklettgau,Schaffhausen
+127,Mülligen,Brugg,Aargau
+128,Zihlschlacht-Sitterdorf,Weinfelden,Thurgau
+129,Zernez,Inn,Graubünden / Grigioni / Grischun
+130,Ipsach,Biel/Bienne,Bern / Berne
+131,Sins,Muri,Aargau
+132,Saint-Saphorin (Lavaux),Lavaux-Oron,Vaud
+133,Fislisbach,Baden,Aargau
+134,Ebnat-Kappel,Toggenburg,St. Gallen
+135,Egolzwil,Willisau,Luzern
+136,Büsserach,Thierstein,Solothurn
+137,Oberrieden,Horgen,Zürich
+138,Buch am Irchel,Andelfingen,Zürich
+139,Ayent,Hérens,Valais / Wallis
+140,Hettlingen,Winterthur,Zürich
+141,Basel,Kanton Basel-Stadt,Basel-Stadt
+142,Küttigen,Aarau,Aargau
+143,Horw,Luzern-Land,Luzern
+144,Hemishofen,Stein,Schaffhausen
+145,Unterägeri,Kanton Zug,Zug
+146,Wichtrach,Appenzell Ausserrhoden,Bern / Berne
+147,Freienstein-Teufen,Bülach,Zürich
+148,Breggia,Mendrisio,Ticino
+149,Sonvilier,Jura bernois,Bern / Berne
+150,Aubonne,Morges,Vaud
+151,Berg (SG),Rorschach,St. Gallen
+152,Maschwanden,Affoltern,Zürich
+153,Mervelier,Delémont,Jura
+154,Seewen,Dorneck,Solothurn
+155,Rickenbach (BL),Sissach,Basel-Landschaft
+156,Rothrist,Zofingen,Aargau
+157,Lungern,Kanton Obwalden,Obwalden
+158,Faido,Leventina,Ticino
+159,Kienberg,Gösgen,Solothurn
+160,Anniviers,Sierre,Valais / Wallis
+161,Grosshöchstetten,Appenzell Ausserrhoden,Bern / Berne
+162,Münchenwiler,Appenzell Ausserrhoden,Bern / Berne
+163,Pfeffingen,Arlesheim,Basel-Landschaft
+164,Flurlingen,Andelfingen,Zürich
+165,Gränichen,Aarau,Aargau
+166,Untervaz,Landquart,Graubünden / Grigioni / Grischun
+167,Comano,Lugano,Ticino
+168,Obfelden,Affoltern,Zürich
+169,Stans,Kanton Nidwalden,Nidwalden
+170,Versoix,Canton de Genève,Genève
+171,Arogno,Lugano,Ticino
+172,Wengi,Seeland,Bern / Berne
+173,Boningen,Olten,Solothurn
+174,Sarmenstorf,Bremgarten,Aargau
+175,Reinach (AG),Kulm,Aargau
+176,Grolley,La Sarine,Fribourg / Freiburg
+177,Boppelsen,Dielsdorf,Zürich
+178,Rechthalten,Sense,Fribourg / Freiburg
+179,Walchwil,Kanton Zug,Zug
+180,Neggio,Lugano,Ticino
+181,Arnex-sur-Orbe,Jura-Nord vaudois,Vaud
+182,Pfäffikon,Pfäffikon,Zürich
+183,Bissone,Lugano,Ticino
+184,Essertes,Lavaux-Oron,Vaud
+185,Rüdtligen-Alchenflüh,Emmental,Bern / Berne
+186,Gland,Nyon,Vaud
+187,Magliaso,Lugano,Ticino
+188,Chavannes-le-Chêne,Jura-Nord vaudois,Vaud
+189,Hermance,Canton de Genève,Genève
+190,Montfaucon,Les Franches-Montagnes,Jura
+191,Schafisheim,Lenzburg,Aargau
+192,Tévenon,Jura-Nord vaudois,Vaud
+193,St. Stephan,Obersimmental-Saanen,Bern / Berne
+194,Grangettes,La Glâne,Fribourg / Freiburg
+195,Landquart,Landquart,Graubünden / Grigioni / Grischun
+196,Oekingen,Wasseramt,Solothurn
+197,Rudolfstetten-Friedlisberg,Bremgarten,Aargau
+198,Oetwil am See,Meilen,Zürich
+199,Twann-Tüscherz,Biel/Bienne,Bern / Berne
+200,Oberweningen,Dielsdorf,Zürich
+201,Täsch,Visp,Valais / Wallis
+202,Arbon,Arbon,Thurgau
+203,Othmarsingen,Lenzburg,Aargau
+204,Vernayaz,Saint-Maurice,Valais / Wallis
+205,Lostallo,Moesa,Graubünden / Grigioni / Grischun
+206,St. Moritz,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+207,Menzingen,Kanton Zug,Zug
+208,Rheinau,Andelfingen,Zürich
+209,Ormalingen,Sissach,Basel-Landschaft
+210,Schwarzenberg,Luzern-Land,Luzern
+211,Hüniken,Wasseramt,Solothurn
+212,Lommiswil,Lebern,Solothurn
+213,Clarmont,Morges,Vaud
+214,Mendrisio,Mendrisio,Ticino
+215,Ried-Brig,Brig,Valais / Wallis
+216,Otelfingen,Dielsdorf,Zürich
+217,Sutz-Lattrigen,Biel/Bienne,Bern / Berne
+218,Gossau (ZH),Hinwil,Zürich
+219,Niederried bei Interlaken,Interlaken-Oberhasli,Bern / Berne
+220,Delémont,Delémont,Jura
+221,Lüscherz,Seeland,Bern / Berne
+222,Chavornay,Jura-Nord vaudois,Vaud
+223,Boulens,Gros-de-Vaud,Vaud
+224,Lavizzara,Vallemaggia,Ticino
+225,Sierre,Sierre,Valais / Wallis
+226,Ingenbohl,Schwyz,Schwyz
+227,Oulens-sous-Echallens,Gros-de-Vaud,Vaud
+228,Basadingen-Schlattingen,Frauenfeld,Thurgau
+229,Bodio,Leventina,Ticino
+230,Wittinsburg,Sissach,Basel-Landschaft
+231,Trélex,Nyon,Vaud
+232,Wenslingen,Sissach,Basel-Landschaft
+233,Arbedo-Castione,Bellinzona,Ticino
+234,Zug,Kanton Zug,Zug
+235,Hindelbank,Emmental,Bern / Berne
+236,Gryon,Aigle,Vaud
+237,Dübendorf,Uster,Zürich
+238,Wildhaus-Alt St. Johann,Toggenburg,St. Gallen
+239,Neuenhof,Baden,Aargau
+240,Gampelen,Seeland,Bern / Berne
+241,Kriegstetten,Wasseramt,Solothurn
+242,Bioggio,Lugano,Ticino
+243,Zell (ZH),Winterthur,Zürich
+244,Hüttikon,Dielsdorf,Zürich
+245,Trachselwald,Emmental,Bern / Berne
+246,Raron,Raron,Valais / Wallis
+247,Villars-Sainte-Croix,Ouest lausannois,Vaud
+248,Mühleberg,Appenzell Ausserrhoden,Bern / Berne
+249,Romanshorn,Arbon,Thurgau
+250,Grosswangen,Sursee,Luzern
+251,Lumnezia,Surselva,Graubünden / Grigioni / Grischun
+252,Uster,Uster,Zürich
+253,Nuglar-St. Pantaleon,Dorneck,Solothurn
+254,Bernex,Canton de Genève,Genève
+255,Bullet,Jura-Nord vaudois,Vaud
+256,Movelier,Delémont,Jura
+257,Vuadens,La Gruyère,Fribourg / Freiburg
+258,Château-d'Oex,Riviera-Pays-d'Enhaut,Vaud
+259,Heimberg,Thun,Bern / Berne
+260,Oberuzwil,Wil,St. Gallen
+261,Leytron,Martigny,Valais / Wallis
+262,Evionnaz,Saint-Maurice,Valais / Wallis
+263,Wäldi,Kreuzlingen,Thurgau
+264,Lachen,March,Schwyz
+265,Salvan,Saint-Maurice,Valais / Wallis
+266,Oberried am Brienzersee,Interlaken-Oberhasli,Bern / Berne
+267,Wuppenau,Weinfelden,Thurgau
+268,Brissago,Locarno,Ticino
+269,Boudry,Boudry,Neuchâtel
+270,Ersigen,Emmental,Bern / Berne
+271,Marsens,La Gruyère,Fribourg / Freiburg
+272,Meggen,Luzern-Land,Luzern
+273,Rorbas,Bülach,Zürich
+274,Orzens,Jura-Nord vaudois,Vaud
+275,Benken (ZH),Andelfingen,Zürich
+276,Uitikon,Dietikon,Zürich
+277,Aefligen,Emmental,Bern / Berne
+278,Essertines-sur-Yverdon,Gros-de-Vaud,Vaud
+279,Gampel-Bratsch,Leuk,Valais / Wallis
+280,Oberhofen am Thunersee,Thun,Bern / Berne
+281,Haut-Intyamon,La Gruyère,Fribourg / Freiburg
+282,Châtillon (FR),La Broye,Fribourg / Freiburg
+283,Deisswil bei Münchenbuchsee,Appenzell Ausserrhoden,Bern / Berne
+284,Marbach (SG),Rheintal,St. Gallen
+285,Penthalaz,Gros-de-Vaud,Vaud
+286,Bretigny-sur-Morrens,Gros-de-Vaud,Vaud
+287,Eppenberg-Wöschnau,Olten,Solothurn
+288,Dalpe,Leventina,Ticino
+289,Molondin,Jura-Nord vaudois,Vaud
+290,Liestal,Liestal,Basel-Landschaft
+291,Muntelier,See / Lac,Fribourg / Freiburg
+292,Beromünster,Sursee,Luzern
+293,Grandson,Jura-Nord vaudois,Vaud
+294,Prato (Leventina),Leventina,Ticino
+295,Evolène,Hérens,Valais / Wallis
+296,Remigen,Brugg,Aargau
+297,Möhlin,Rheinfelden,Aargau
+298,Läufelfingen,Sissach,Basel-Landschaft
+299,Hasle (LU),Entlebuch,Luzern
+300,Céligny,Canton de Genève,Genève
+301,Siselen,Seeland,Bern / Berne
+302,Kaiseraugst,Rheinfelden,Aargau
+303,Rheineck,Rheintal,St. Gallen
+304,Hauterive (NE),Neuchâtel,Neuchâtel
+305,Stettlen,Appenzell Ausserrhoden,Bern / Berne
+306,Croglio,Lugano,Ticino
+307,Bremblens,Morges,Vaud
+308,Grancy,Morges,Vaud
+309,Hermenches,Broye-Vully,Vaud
+310,Blauen,Laufen,Basel-Landschaft
+311,Stein (AR),Appenzell Ausserrhoden,Appenzell Ausserrhoden
+312,Eschenbach (LU),Hochdorf,Luzern
+313,Belp,Appenzell Ausserrhoden,Bern / Berne
+314,Mergoscia,Locarno,Ticino
+315,Zeneggen,Visp,Valais / Wallis
+316,Egg,Uster,Zürich
+317,Kleinandelfingen,Andelfingen,Zürich
+318,Winterthur,Winterthur,Zürich
+319,Täuffelen,Seeland,Bern / Berne
+320,Niederbüren,Wil,St. Gallen
+321,Dorf,Andelfingen,Zürich
+322,Icogne,Sierre,Valais / Wallis
+323,Ropraz,Broye-Vully,Vaud
+324,Dierikon,Luzern-Land,Luzern
+325,Bichelsee-Balterswil,Münchwilen,Thurgau
+326,Cudrefin,Broye-Vully,Vaud
+327,La Sarraz,Morges,Vaud
+328,Anwil,Sissach,Basel-Landschaft
+329,Röschenz,Laufen,Basel-Landschaft
+330,Goldach,Rorschach,St. Gallen
+331,Val-d'Illiez,Monthey,Valais / Wallis
+332,Lüterswil-Gächliwil,Bucheggberg,Solothurn
+333,Fahrni,Thun,Bern / Berne
+334,Würenlingen,Baden,Aargau
+335,Burgistein,Thun,Bern / Berne
+336,Walenstadt,Sarganserland,St. Gallen
+337,Boussens,Gros-de-Vaud,Vaud
+338,Geltwil,Muri,Aargau
+339,Simplon,Brig,Valais / Wallis
+340,Heitenried,Sense,Fribourg / Freiburg
+341,Remaufens,La Veveyse,Fribourg / Freiburg
+342,Fahy,Porrentruy,Jura
+343,Mägenwil,Baden,Aargau
+344,Genthod,Canton de Genève,Genève
+345,Lignières,Neuchâtel,Neuchâtel
+346,Innerthal,March,Schwyz
+347,Engelberg,Kanton Obwalden,Obwalden
+348,Nidau,Biel/Bienne,Bern / Berne
+349,Dintikon,Lenzburg,Aargau
+350,Rohrbachgraben,Oberaargau,Bern / Berne
+351,Wagenhausen,Frauenfeld,Thurgau
+352,Vouvry,Monthey,Valais / Wallis
+353,Henniez,Broye-Vully,Vaud
+354,Provence,Jura-Nord vaudois,Vaud
+355,Denges,Morges,Vaud
+356,Altnau,Kreuzlingen,Thurgau
+357,Biel-Benken,Arlesheim,Basel-Landschaft
+358,Häutligen,Appenzell Ausserrhoden,Bern / Berne
+359,Bonstetten,Affoltern,Zürich
+360,Montilliez,Gros-de-Vaud,Vaud
+361,Küblis,Prättigau-Davos,Graubünden / Grigioni / Grischun
+362,Courrendlin,Delémont,Jura
+363,Mönthal,Brugg,Aargau
+364,Elsau,Winterthur,Zürich
+365,Konolfingen,Appenzell Ausserrhoden,Bern / Berne
+366,Linden,Appenzell Ausserrhoden,Bern / Berne
+367,Corgémont,Jura bernois,Bern / Berne
+368,Oppens,Gros-de-Vaud,Vaud
+369,Full-Reuenthal,Zurzach,Aargau
+370,Jouxtens-Mézery,Lausanne,Vaud
+371,Laufenburg,Laufenburg,Aargau
+372,Berolle,Morges,Vaud
+373,Steinen,Schwyz,Schwyz
+374,Oberägeri,Kanton Zug,Zug
+375,Paudex,Lavaux-Oron,Vaud
+376,Landiswil,Appenzell Ausserrhoden,Bern / Berne
+377,Wiesendangen,Winterthur,Zürich
+378,Maracon,Lavaux-Oron,Vaud
+379,Waldenburg,Waldenburg,Basel-Landschaft
+380,Lutry,Lavaux-Oron,Vaud
+381,Siglistorf,Zurzach,Aargau
+382,Dornach,Dorneck,Solothurn
+383,Oberwil-Lieli,Bremgarten,Aargau
+384,Boltigen,Obersimmental-Saanen,Bern / Berne
+385,Madiswil,Oberaargau,Bern / Berne
+386,Walterswil (BE),Oberaargau,Bern / Berne
+387,Nyon,Nyon,Vaud
+388,Wolfenschiessen,Kanton Nidwalden,Nidwalden
+389,Ecublens (VD),Ouest lausannois,Vaud
+390,Zufikon,Bremgarten,Aargau
+391,Allaman,Morges,Vaud
+392,Oberwil bei Büren,Seeland,Bern / Berne
+393,Montagny-près-Yverdon,Jura-Nord vaudois,Vaud
+394,Heiligenschwendi,Thun,Bern / Berne
+395,Melano,Lugano,Ticino
+396,Aclens,Morges,Vaud
+397,Ormont-Dessous,Aigle,Vaud
+398,Alberswil,Willisau,Luzern
+399,Ursins,Jura-Nord vaudois,Vaud
+400,Concise,Jura-Nord vaudois,Vaud
+401,Oberdiessbach,Appenzell Ausserrhoden,Bern / Berne
+402,Niederbipp,Oberaargau,Bern / Berne
+403,Tägerwilen,Kreuzlingen,Thurgau
+404,Givisiez,La Sarine,Fribourg / Freiburg
+405,Nods,Jura bernois,Bern / Berne
+406,Bargen (BE),Seeland,Bern / Berne
+407,Bannwil,Oberaargau,Bern / Berne
+408,Hundwil,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+409,Büttikon,Bremgarten,Aargau
+410,Baulmes,Jura-Nord vaudois,Vaud
+411,Oron,Lavaux-Oron,Vaud
+412,La Chaux (Cossonay),Morges,Vaud
+413,Grabs,Werdenberg,St. Gallen
+414,Greifensee,Uster,Zürich
+415,Fideris,Prättigau-Davos,Graubünden / Grigioni / Grischun
+416,Gipf-Oberfrick,Laufenburg,Aargau
+417,Fully,Martigny,Valais / Wallis
+418,Tenero-Contra,Locarno,Ticino
+419,Silenen,Kanton Uri,Uri
+420,Neunkirch,Oberklettgau,Schaffhausen
+421,Rüeggisberg,Appenzell Ausserrhoden,Bern / Berne
+422,Blonay,Riviera-Pays-d'Enhaut,Vaud
+423,Ennetmoos,Kanton Nidwalden,Nidwalden
+424,Bassins,Nyon,Vaud
+425,Luthern,Willisau,Luzern
+426,Beinwil am See,Kulm,Aargau
+427,Birmensdorf (ZH),Dietikon,Zürich
+428,Tamins,Imboden,Graubünden / Grigioni / Grischun
+429,Sessa,Lugano,Ticino
+430,Rümlang,Dielsdorf,Zürich
+431,Mellingen,Baden,Aargau
+432,Ottenbach,Affoltern,Zürich
+433,Mex (VD),Gros-de-Vaud,Vaud
+434,Semsales,La Veveyse,Fribourg / Freiburg
+435,Ponte Capriasca,Lugano,Ticino
+436,Horrenbach-Buchen,Thun,Bern / Berne
+437,Maroggia,Lugano,Ticino
+438,Treytorrens (Payerne),Broye-Vully,Vaud
+439,Chalais,Sierre,Valais / Wallis
+440,Orsières,Entremont,Valais / Wallis
+441,Grono,Moesa,Graubünden / Grigioni / Grischun
+442,Reichenburg,March,Schwyz
+443,Stabio,Mendrisio,Ticino
+444,Riva San Vitale,Mendrisio,Ticino
+445,Wasterkingen,Bülach,Zürich
+446,Veysonnaz,Sion,Valais / Wallis
+447,Bülach,Bülach,Zürich
+448,Surpierre,La Broye,Fribourg / Freiburg
+449,Reiden,Willisau,Luzern
+450,Safiental,Surselva,Graubünden / Grigioni / Grischun
+451,Pailly,Gros-de-Vaud,Vaud
+452,Ittigen,Appenzell Ausserrhoden,Bern / Berne
+453,Premier,Jura-Nord vaudois,Vaud
+454,Grindelwald,Interlaken-Oberhasli,Bern / Berne
+455,Wangen (SZ),March,Schwyz
+456,Niederglatt,Dielsdorf,Zürich
+457,Therwil,Arlesheim,Basel-Landschaft
+458,Péry-La Heutte,Jura bernois,Bern / Berne
+459,Kippel,Raron,Valais / Wallis
+460,Chavannes-sur-Moudon,Broye-Vully,Vaud
+461,La Chaux-de-Fonds,La Chaux-de-Fonds,Neuchâtel
+462,Wohlen bei Bern,Appenzell Ausserrhoden,Bern / Berne
+463,Däniken,Olten,Solothurn
+464,Zeglingen,Sissach,Basel-Landschaft
+465,Recherswil,Wasseramt,Solothurn
+466,Novazzano,Mendrisio,Ticino
+467,Renens (VD),Ouest lausannois,Vaud
+468,Crésuz,La Gruyère,Fribourg / Freiburg
+469,Pfäfers,Sarganserland,St. Gallen
+470,Attinghausen,Kanton Uri,Uri
+471,Steg-Hohtenn,Raron,Valais / Wallis
+472,Hauptwil-Gottshaus,Weinfelden,Thurgau
+473,Hemberg,Toggenburg,St. Gallen
+474,Bossonnens,La Veveyse,Fribourg / Freiburg
+475,Fontenais,Porrentruy,Jura
+476,Choulex,Canton de Genève,Genève
+477,Spiez,Frutigen-Niedersimmental,Bern / Berne
+478,Lucens,Broye-Vully,Vaud
+479,Villars-sur-Glâne,La Sarine,Fribourg / Freiburg
+480,Frutigen,Frutigen-Niedersimmental,Bern / Berne
+481,Oensingen,Gäu,Solothurn
+482,Crassier,Nyon,Vaud
+483,Interlaken,Interlaken-Oberhasli,Bern / Berne
+484,Morges,Morges,Vaud
+485,Kerzers,See / Lac,Fribourg / Freiburg
+486,Bellach,Lebern,Solothurn
+487,Gächlingen,Oberklettgau,Schaffhausen
+488,Ausserberg,Raron,Valais / Wallis
+489,Altdorf (UR),Kanton Uri,Uri
+490,Wynau,Oberaargau,Bern / Berne
+491,Härkingen,Gäu,Solothurn
+492,Steckborn,Frauenfeld,Thurgau
+493,Rüttenen,Lebern,Solothurn
+494,Wünnewil-Flamatt,Sense,Fribourg / Freiburg
+495,Münsingen,Appenzell Ausserrhoden,Bern / Berne
+496,Neuchâtel,Neuchâtel,Neuchâtel
+497,Lauerz,Schwyz,Schwyz
+498,Biberstein,Aarau,Aargau
+499,Frenkendorf,Liestal,Basel-Landschaft
+500,Suhr,Aarau,Aargau
+501,Hölstein,Waldenburg,Basel-Landschaft
+502,Riddes,Martigny,Valais / Wallis
+503,Forel (Lavaux),Lavaux-Oron,Vaud
+504,Agiez,Jura-Nord vaudois,Vaud
+505,Altendorf,March,Schwyz
+506,Yvorne,Aigle,Vaud
+507,Buus,Sissach,Basel-Landschaft
+508,Wald (BE),Appenzell Ausserrhoden,Bern / Berne
+509,Zuzwil (SG),Wil,St. Gallen
+510,Valbirse,Jura bernois,Bern / Berne
+511,Hornussen,Laufenburg,Aargau
+512,Rennaz,Aigle,Vaud
+513,Horriwil,Wasseramt,Solothurn
+514,Dürrenäsch,Kulm,Aargau
+515,Morcote,Lugano,Ticino
+516,Reutigen,Thun,Bern / Berne
+517,Lohn-Ammannsegg,Wasseramt,Solothurn
+518,Vuiteboeuf,Jura-Nord vaudois,Vaud
+519,Bas-Intyamon,La Gruyère,Fribourg / Freiburg
+520,Mümliswil-Ramiswil,Thal,Solothurn
+521,Eggenwil,Bremgarten,Aargau
+522,Schluein,Surselva,Graubünden / Grigioni / Grischun
+523,Diemtigen,Frutigen-Niedersimmental,Bern / Berne
+524,Salenstein,Kreuzlingen,Thurgau
+525,Marly,La Sarine,Fribourg / Freiburg
+526,Küssnacht (SZ),Küssnacht (SZ),Schwyz
+527,Murten,See / Lac,Fribourg / Freiburg
+528,Luzein,Prättigau-Davos,Graubünden / Grigioni / Grischun
+529,Rüegsau,Emmental,Bern / Berne
+530,Teufen (AR),Appenzell Ausserrhoden,Appenzell Ausserrhoden
+531,Chevroux,Broye-Vully,Vaud
+532,Cormoret,Jura bernois,Bern / Berne
+533,Unterkulm,Kulm,Aargau
+534,Zäziwil,Appenzell Ausserrhoden,Bern / Berne
+535,Arisdorf,Liestal,Basel-Landschaft
+536,Lussery-Villars,Gros-de-Vaud,Vaud
+537,Thalheim (AG),Brugg,Aargau
+538,Ebikon,Luzern-Land,Luzern
+539,Chur,Plessur,Graubünden / Grigioni / Grischun
+540,Bättwil,Dorneck,Solothurn
+541,Neyruz (FR),La Sarine,Fribourg / Freiburg
+542,Naters,Brig,Valais / Wallis
+543,Berg (TG),Weinfelden,Thurgau
+544,Warth-Weiningen,Frauenfeld,Thurgau
+545,Chêne-Pâquier,Jura-Nord vaudois,Vaud
+546,Mezzovico-Vira,Lugano,Ticino
+547,Schinznach,Brugg,Aargau
+548,Ponthaux,La Sarine,Fribourg / Freiburg
+549,Oberburg,Emmental,Bern / Berne
+550,Märstetten,Weinfelden,Thurgau
+551,Arzier-Le Muids,Nyon,Vaud
+552,Aeschi bei Spiez,Frutigen-Niedersimmental,Bern / Berne
+553,Gonten,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+554,Rickenbach (ZH),Winterthur,Zürich
+555,Fahrwangen,Lenzburg,Aargau
+556,Andermatt,Kanton Uri,Uri
+557,Wikon,Willisau,Luzern
+558,Zeiningen,Rheinfelden,Aargau
+559,Grône,Sierre,Valais / Wallis
+560,Schlatt (ZH),Winterthur,Zürich
+561,Saint-Martin (VS),Hérens,Valais / Wallis
+562,Tannay,Nyon,Vaud
+563,Corseaux,Riviera-Pays-d'Enhaut,Vaud
+564,Saas-Fee,Visp,Valais / Wallis
+565,Hergiswil (NW),Kanton Nidwalden,Nidwalden
+566,Mesocco,Moesa,Graubünden / Grigioni / Grischun
+567,Hallwil,Lenzburg,Aargau
+568,Honau,Luzern-Land,Luzern
+569,Trimmis,Landquart,Graubünden / Grigioni / Grischun
+570,Oberbipp,Oberaargau,Bern / Berne
+571,Martigny,Martigny,Valais / Wallis
+572,Hochdorf,Hochdorf,Luzern
+573,Frauenfeld,Frauenfeld,Thurgau
+574,Jenins,Landquart,Graubünden / Grigioni / Grischun
+575,Eggersriet,St. Gallen,St. Gallen
+576,Oberhünigen,Appenzell Ausserrhoden,Bern / Berne
+577,Riniken,Brugg,Aargau
+578,Wangen bei Olten,Olten,Solothurn
+579,Denens,Morges,Vaud
+580,Granges (Veveyse),La Veveyse,Fribourg / Freiburg
+581,Perly-Certoux,Canton de Genève,Genève
+582,Cademario,Lugano,Ticino
+583,Kirchberg (BE),Emmental,Bern / Berne
+584,Emmen,Hochdorf,Luzern
+585,Ueken,Laufenburg,Aargau
+586,Gottlieben,Kreuzlingen,Thurgau
+587,Forst-Längenbühl,Thun,Bern / Berne
+588,Egliswil,Lenzburg,Aargau
+589,Rothenthurm,Schwyz,Schwyz
+590,Berneck,Rheintal,St. Gallen
+591,Herisau,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+592,Bellinzona,Bellinzona,Ticino
+593,Lausen,Liestal,Basel-Landschaft
+594,Saint-Livres,Morges,Vaud
+595,Blumenstein,Thun,Bern / Berne
+596,Bussigny,Ouest lausannois,Vaud
+597,Olten,Olten,Solothurn
+598,Safnern,Biel/Bienne,Bern / Berne
+599,Attiswil,Oberaargau,Bern / Berne
+600,Künten,Baden,Aargau
+601,Rottenschwil,Muri,Aargau
+602,Bursinel,Nyon,Vaud
+603,Malters,Luzern-Land,Luzern
+604,Montreux,Riviera-Pays-d'Enhaut,Vaud
+605,Fulenbach,Olten,Solothurn
+606,Corcelles-près-Payerne,Broye-Vully,Vaud
+607,Niederhünigen,Appenzell Ausserrhoden,Bern / Berne
+608,Aesch (LU),Hochdorf,Luzern
+609,Fällanden,Uster,Zürich
+610,Wattenwil,Thun,Bern / Berne
+611,Bürchen,Raron,Valais / Wallis
+612,Volketswil,Uster,Zürich
+613,Chevilly,Morges,Vaud
+614,Au (SG),Rheintal,St. Gallen
+615,Glarus Süd,Kanton Glarus,Glarus
+616,Zofingen,Zofingen,Aargau
+617,Horn,Arbon,Thurgau
+618,Muriaux,Les Franches-Montagnes,Jura
+619,Roggliswil,Willisau,Luzern
+620,Weiach,Dielsdorf,Zürich
+621,Daillens,Gros-de-Vaud,Vaud
+622,Rütschelen,Oberaargau,Bern / Berne
+623,Oberkirch,Sursee,Luzern
+624,Ettingen,Arlesheim,Basel-Landschaft
+625,Neuendorf,Gäu,Solothurn
+626,Wangen an der Aare,Oberaargau,Bern / Berne
+627,Valeyres-sous-Rances,Jura-Nord vaudois,Vaud
+628,Kleinbösingen,See / Lac,Fribourg / Freiburg
+629,Büetigen,Seeland,Bern / Berne
+630,Kirchleerau,Zofingen,Aargau
+631,Ueberstorf,Sense,Fribourg / Freiburg
+632,Rothenfluh,Sissach,Basel-Landschaft
+633,Bubendorf,Liestal,Basel-Landschaft
+634,Altishofen,Willisau,Luzern
+635,Niederhelfenschwil,Wil,St. Gallen
+636,Lüterkofen-Ichertswil,Bucheggberg,Solothurn
+637,Signau,Emmental,Bern / Berne
+638,Thônex,Canton de Genève,Genève
+639,Calanca,Moesa,Graubünden / Grigioni / Grischun
+640,Oberrohrdorf,Baden,Aargau
+641,Regensberg,Dielsdorf,Zürich
+642,Poschiavo,Bernina,Graubünden / Grigioni / Grischun
+643,Hagneck,Seeland,Bern / Berne
+644,Brione sopra Minusio,Locarno,Ticino
+645,Eich,Sursee,Luzern
+646,Grellingen,Laufen,Basel-Landschaft
+647,Tentlingen,Sense,Fribourg / Freiburg
+648,Abtwil,Muri,Aargau
+649,Häfelfingen,Sissach,Basel-Landschaft
+650,Granges-Paccot,La Sarine,Fribourg / Freiburg
+651,Rümikon,Zurzach,Aargau
+652,Scuol,Inn,Graubünden / Grigioni / Grischun
+653,Oberentfelden,Aarau,Aargau
+654,Montet (Glâne),La Glâne,Fribourg / Freiburg
+655,Erlenbach im Simmental,Frutigen-Niedersimmental,Bern / Berne
+656,Morrens (VD),Gros-de-Vaud,Vaud
+657,Inkwil,Oberaargau,Bern / Berne
+658,Trüllikon,Andelfingen,Zürich
+659,Schötz,Willisau,Luzern
+660,Gelterkinden,Sissach,Basel-Landschaft
+661,Bassersdorf,Bülach,Zürich
+662,Sennwald,Werdenberg,St. Gallen
+663,Brig-Glis,Brig,Valais / Wallis
+664,Willisau,Willisau,Luzern
+665,Weggis,Luzern-Land,Luzern
+666,Wilderswil,Interlaken-Oberhasli,Bern / Berne
+667,Cronay,Jura-Nord vaudois,Vaud
+668,Coppet,Nyon,Vaud
+669,Ecublens (FR),La Glâne,Fribourg / Freiburg
+670,Boécourt,Delémont,Jura
+671,Chavannes-de-Bogis,Nyon,Vaud
+672,Frick,Laufenburg,Aargau
+673,Ossingen,Andelfingen,Zürich
+674,Halten,Wasseramt,Solothurn
+675,Embrach,Bülach,Zürich
+676,Gersau,Gersau,Schwyz
+677,Willadingen,Emmental,Bern / Berne
+678,Gerlafingen,Wasseramt,Solothurn
+679,Dotzigen,Seeland,Bern / Berne
+680,Commugny,Nyon,Vaud
+681,Nesslau,Toggenburg,St. Gallen
+682,Plateau de Diesse,Jura bernois,Bern / Berne
+683,Erlinsbach (SO),Gösgen,Solothurn
+684,Frauenkappelen,Appenzell Ausserrhoden,Bern / Berne
+685,Thun,Thun,Bern / Berne
+686,Senarclens,Morges,Vaud
+687,Echichens,Morges,Vaud
+688,Vinzel,Nyon,Vaud
+689,Kandersteg,Frutigen-Niedersimmental,Bern / Berne
+690,Eschlikon,Münchwilen,Thurgau
+691,Herzogenbuchsee,Oberaargau,Bern / Berne
+692,Coeuve,Porrentruy,Jura
+693,Salmsach,Arbon,Thurgau
+694,Vully-les-Lacs,Broye-Vully,Vaud
+695,Laax,Surselva,Graubünden / Grigioni / Grischun
+696,Haute-Ajoie,Porrentruy,Jura
+697,Bühler,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+698,Belfaux,La Sarine,Fribourg / Freiburg
+699,Seelisberg,Kanton Uri,Uri
+700,Biasca,Riviera,Ticino
+701,Mauensee,Sursee,Luzern
+702,Torny,La Glâne,Fribourg / Freiburg
+703,Bennwil,Waldenburg,Basel-Landschaft
+704,Yvonand,Jura-Nord vaudois,Vaud
+705,Kölliken,Zofingen,Aargau
+706,Zetzwil,Kulm,Aargau
+707,Vacallo,Mendrisio,Ticino
+708,Bussnang,Weinfelden,Thurgau
+709,Staufen,Lenzburg,Aargau
+710,Grandvillard,La Gruyère,Fribourg / Freiburg
+711,Chancy,Canton de Genève,Genève
+712,Villars-Epeney,Jura-Nord vaudois,Vaud
+713,Montricher,Morges,Vaud
+714,Breitenbach,Thierstein,Solothurn
+715,Domleschg,Hinterrhein,Graubünden / Grigioni / Grischun
+716,Ried bei Kerzers,See / Lac,Fribourg / Freiburg
+717,Guggisberg,Appenzell Ausserrhoden,Bern / Berne
+718,Oberbüren,Wil,St. Gallen
+719,Meinisberg,Biel/Bienne,Bern / Berne
+720,Schattenhalb,Interlaken-Oberhasli,Bern / Berne
+721,Flüelen,Kanton Uri,Uri
+722,Gingins,Nyon,Vaud
+723,Gerzensee,Appenzell Ausserrhoden,Bern / Berne
+724,Vico Morcote,Lugano,Ticino
+725,Schwanden bei Brienz,Interlaken-Oberhasli,Bern / Berne
+726,Petit-Val,Jura bernois,Bern / Berne
+727,Lauenen,Obersimmental-Saanen,Bern / Berne
+728,Elgg,Winterthur,Zürich
+729,Seengen,Lenzburg,Aargau
+730,Diepoldsau,Rheintal,St. Gallen
+731,Isone,Bellinzona,Ticino
+732,Thürnen,Sissach,Basel-Landschaft
+733,Cuarny,Jura-Nord vaudois,Vaud
+734,Glattfelden,Bülach,Zürich
+735,Buchholterberg,Thun,Bern / Berne
+736,Niedergesteln,Raron,Valais / Wallis
+737,Autigny,La Sarine,Fribourg / Freiburg
+738,Lostorf,Gösgen,Solothurn
+739,Port-Valais,Monthey,Valais / Wallis
+740,Herdern,Frauenfeld,Thurgau
+741,Missy,Broye-Vully,Vaud
+742,Lancy,Canton de Genève,Genève
+743,Gempenach,See / Lac,Fribourg / Freiburg
+744,Leuk,Leuk,Valais / Wallis
+745,Suscévaz,Jura-Nord vaudois,Vaud
+746,Ostermundigen,Appenzell Ausserrhoden,Bern / Berne
+747,Diessbach bei Büren,Seeland,Bern / Berne
+748,Niederönz,Oberaargau,Bern / Berne
+749,Aranno,Lugano,Ticino
+750,Ins,Seeland,Bern / Berne
+751,Plan-les-Ouates,Canton de Genève,Genève
+752,Walzenhausen,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+753,Augst,Liestal,Basel-Landschaft
+754,Höchstetten,Emmental,Bern / Berne
+755,Bioley-Magnoux,Jura-Nord vaudois,Vaud
+756,Vullierens,Morges,Vaud
+757,Vuisternens-devant-Romont,La Glâne,Fribourg / Freiburg
+758,Besenbüren,Muri,Aargau
+759,Tecknau,Sissach,Basel-Landschaft
+760,Braunau,Münchwilen,Thurgau
+761,Lajoux (JU),Les Franches-Montagnes,Jura
+762,Bözberg,Brugg,Aargau
+763,Schübelbach,March,Schwyz
+764,Alpnach,Kanton Obwalden,Obwalden
+765,Wileroltigen,Appenzell Ausserrhoden,Bern / Berne
+766,Dällikon,Dielsdorf,Zürich
+767,Eggiwil,Emmental,Bern / Berne
+768,Massagno,Lugano,Ticino
+769,Ursy,La Glâne,Fribourg / Freiburg
+770,Kirchdorf (BE),Appenzell Ausserrhoden,Bern / Berne
+771,Hauterive (FR),La Sarine,Fribourg / Freiburg
+772,Caslano,Lugano,Ticino
+773,Vétroz,Conthey,Valais / Wallis
+774,Courtételle,Delémont,Jura
+775,Troinex,Canton de Genève,Genève
+776,Worb,Appenzell Ausserrhoden,Bern / Berne
+777,Bösingen,Sense,Fribourg / Freiburg
+778,Le Pâquier (FR),La Gruyère,Fribourg / Freiburg
+779,Schüpfen,Seeland,Bern / Berne
+780,Riehen,Kanton Basel-Stadt,Basel-Stadt
+781,Studen (BE),Seeland,Bern / Berne
+782,Nenzlingen,Laufen,Basel-Landschaft
+783,Wartau,Werdenberg,St. Gallen
+784,Sonceboz-Sombeval,Jura bernois,Bern / Berne
+785,Rodersdorf,Dorneck,Solothurn
+786,Cortaillod,Boudry,Neuchâtel
+787,Renan (BE),Jura bernois,Bern / Berne
+788,Stocken-Höfen,Thun,Bern / Berne
+789,Goumoëns,Gros-de-Vaud,Vaud
+790,Wil (ZH),Bülach,Zürich
+791,L'Isle,Morges,Vaud
+792,Büren an der Aare,Seeland,Bern / Berne
+793,Eriz,Thun,Bern / Berne
+794,Eschenbach (SG),See-Gaster,St. Gallen
+795,Alto Malcantone,Lugano,Ticino
+796,Bournens,Gros-de-Vaud,Vaud
+797,Kriens,Luzern-Land,Luzern
+798,Uetendorf,Thun,Bern / Berne
+799,Wimmis,Frutigen-Niedersimmental,Bern / Berne
+800,Birrhard,Brugg,Aargau
+801,Uznach,See-Gaster,St. Gallen
+802,Presinge,Canton de Genève,Genève
+803,Luzern,Luzern-Land,Luzern
+804,Fraubrunnen,Appenzell Ausserrhoden,Bern / Berne
+805,Anières,Canton de Genève,Genève
+806,Payerne,Broye-Vully,Vaud
+807,Mettmenstetten,Affoltern,Zürich
+808,Faoug,Broye-Vully,Vaud
+809,Gimel,Morges,Vaud
+810,Sufers,Hinterrhein,Graubünden / Grigioni / Grischun
+811,Vandoeuvres,Canton de Genève,Genève
+812,Nusshof,Sissach,Basel-Landschaft
+813,Reigoldswil,Waldenburg,Basel-Landschaft
+814,Klingnau,Zurzach,Aargau
+815,Sumvitg,Surselva,Graubünden / Grigioni / Grischun
+816,Büttenhardt,Reiat,Schaffhausen
+817,Gretzenbach,Olten,Solothurn
+818,Champoz,Jura bernois,Bern / Berne
+819,Bure,Porrentruy,Jura
+820,Develier,Delémont,Jura
+821,Leukerbad,Leuk,Valais / Wallis
+822,Chamblon,Jura-Nord vaudois,Vaud
+823,Höri,Bülach,Zürich
+824,Stein (AG),Rheinfelden,Aargau
+825,Flühli,Entlebuch,Luzern
+826,Schiers,Prättigau-Davos,Graubünden / Grigioni / Grischun
+827,Obergerlafingen,Wasseramt,Solothurn
+828,Rünenberg,Sissach,Basel-Landschaft
+829,Berikon,Bremgarten,Aargau
+830,Gunzgen,Olten,Solothurn
+831,Moudon,Broye-Vully,Vaud
+832,Auboranges,La Glâne,Fribourg / Freiburg
+833,Lavigny,Morges,Vaud
+834,Gy,Canton de Genève,Genève
+835,Treyvaux,La Sarine,Fribourg / Freiburg
+836,Ménières,La Broye,Fribourg / Freiburg
+837,Truttikon,Andelfingen,Zürich
+838,Les Ponts-de-Martel,Le Locle,Neuchâtel
+839,Orbe,Jura-Nord vaudois,Vaud
+840,Mandach,Brugg,Aargau
+841,Tobel-Tägerschen,Münchwilen,Thurgau
+842,Muri bei Bern,Appenzell Ausserrhoden,Bern / Berne
+843,Walliswil bei Niederbipp,Oberaargau,Bern / Berne
+844,Raperswilen,Kreuzlingen,Thurgau
+845,Saint-Imier,Jura bernois,Bern / Berne
+846,Brunegg,Lenzburg,Aargau
+847,Le Vaud,Nyon,Vaud
+848,Saint-Aubin (FR),La Broye,Fribourg / Freiburg
+849,Thalheim an der Thur,Andelfingen,Zürich
+850,Paradiso,Lugano,Ticino
+851,Balerna,Mendrisio,Ticino
+852,Mont-la-Ville,Morges,Vaud
+853,Hergiswil bei Willisau,Willisau,Luzern
+854,Coinsins,Nyon,Vaud
+855,Bregaglia,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+856,Termen,Brig,Valais / Wallis
+857,Porza,Lugano,Ticino
+858,Buttwil,Muri,Aargau
+859,Ergisch,Leuk,Valais / Wallis
+860,Vals,Surselva,Graubünden / Grigioni / Grischun
+861,Schönengrund,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+862,Sauge,Jura bernois,Bern / Berne
+863,Giswil,Kanton Obwalden,Obwalden
+864,Udligenswil,Luzern-Land,Luzern
+865,Känerkinden,Sissach,Basel-Landschaft
+866,Rolle,Nyon,Vaud
+867,Langnau im Emmental,Emmental,Bern / Berne
+868,Auenstein,Brugg,Aargau
+869,Lupfig,Brugg,Aargau
+870,Hasliberg,Interlaken-Oberhasli,Bern / Berne
+871,Churwalden,Plessur,Graubünden / Grigioni / Grischun
+872,Affoltern am Albis,Affoltern,Zürich
+873,Niedergösgen,Gösgen,Solothurn
+874,Rietheim,Zurzach,Aargau
+875,Wiliberg,Zofingen,Aargau
+876,Iseltwald,Interlaken-Oberhasli,Bern / Berne
+877,Brot-Plamboz,Le Locle,Neuchâtel
+878,Wettswil am Albis,Affoltern,Zürich
+879,Andeer,Hinterrhein,Graubünden / Grigioni / Grischun
+880,Saint-Blaise,Neuchâtel,Neuchâtel
+881,Dietikon,Dietikon,Zürich
+882,St. Gallen,St. Gallen,St. Gallen
+883,Bogis-Bossey,Nyon,Vaud
+884,Gommiswald,See-Gaster,St. Gallen
+885,Wyssachen,Oberaargau,Bern / Berne
+886,Montcherand,Jura-Nord vaudois,Vaud
+887,Hellsau,Emmental,Bern / Berne
+888,Gurmels,See / Lac,Fribourg / Freiburg
+889,Zullwil,Thierstein,Solothurn
+890,Tuggen,March,Schwyz
+891,Muolen,St. Gallen,St. Gallen
+892,L'Abbaye,Jura-Nord vaudois,Vaud
+893,Lugano,Lugano,Ticino
+894,Eiken,Laufenburg,Aargau
+895,Steinach,Rorschach,St. Gallen
+896,Ursenbach,Oberaargau,Bern / Berne
+897,Saulcy,Delémont,Jura
+898,Schlatt-Haslen,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+899,Knutwil,Sursee,Luzern
+900,Penthaz,Gros-de-Vaud,Vaud
+901,Bettingen,Kanton Basel-Stadt,Basel-Stadt
+902,Begnins,Nyon,Vaud
+903,Oberlunkhofen,Bremgarten,Aargau
+904,Zürich,Zürich,Zürich
+905,Schaffhausen,Schaffhausen,Schaffhausen
+906,Glarus,Kanton Glarus,Glarus
+907,Stäfa,Meilen,Zürich
+908,Rickenbach (TG),Münchwilen,Thurgau
+909,Benken (SG),See-Gaster,St. Gallen
+910,Echallens,Gros-de-Vaud,Vaud
+911,Derendingen,Wasseramt,Solothurn
+912,Lully (VD),Morges,Vaud
+913,Grüningen,Hinwil,Zürich
+914,Acquarossa,Blenio,Ticino
+915,Seon,Lenzburg,Aargau
+916,Eischoll,Raron,Valais / Wallis
+917,Kappel am Albis,Affoltern,Zürich
+918,Flums,Sarganserland,St. Gallen
+919,St. Silvester,Sense,Fribourg / Freiburg
+920,Grengiols,Raron,Valais / Wallis
+921,Airolo,Leventina,Ticino
+922,Kaufdorf,Appenzell Ausserrhoden,Bern / Berne
+923,Puplinge,Canton de Genève,Genève
+924,Baden,Baden,Aargau
+925,Grossaffoltern,Seeland,Bern / Berne
+926,Hefenhofen,Arbon,Thurgau
+927,Vuarrens,Gros-de-Vaud,Vaud
+928,Buch (SH),Stein,Schaffhausen
+929,Lütisburg,Toggenburg,St. Gallen
+930,Lyssach,Emmental,Bern / Berne
+931,Chêne-Bougeries,Canton de Genève,Genève
+932,Dürnten,Hinwil,Zürich
+933,Lussy-sur-Morges,Morges,Vaud
+934,Bätterkinden,Emmental,Bern / Berne
+935,Obersiggenthal,Baden,Aargau
+936,Möriken-Wildegg,Lenzburg,Aargau
+937,Chêne-Bourg,Canton de Genève,Genève
+938,Pieterlen,Biel/Bienne,Bern / Berne
+939,Arch,Seeland,Bern / Berne
+940,St. Ursen,Sense,Fribourg / Freiburg
+941,Signy-Avenex,Nyon,Vaud
+942,Metzerlen-Mariastein,Dorneck,Solothurn
+943,Courroux,Delémont,Jura
+944,Büron,Sursee,Luzern
+945,Schwarzenburg,Appenzell Ausserrhoden,Bern / Berne
+946,Oltingen,Sissach,Basel-Landschaft
+947,Burgdorf,Emmental,Bern / Berne
+948,Givrins,Nyon,Vaud
+949,Neerach,Dielsdorf,Zürich
+950,Visperterminen,Visp,Valais / Wallis
+951,Salgesch,Leuk,Valais / Wallis
+952,Zuzgen,Rheinfelden,Aargau
+953,Bellevue,Canton de Genève,Genève
+954,Oberegg,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+955,Russin,Canton de Genève,Genève
+956,Grancia,Lugano,Ticino
+957,Rorschacherberg,Rorschach,St. Gallen
+958,Richterswil,Horgen,Zürich
+959,Agarn,Leuk,Valais / Wallis
+960,Arlesheim,Arlesheim,Basel-Landschaft
+961,Arni (BE),Appenzell Ausserrhoden,Bern / Berne
+962,Locarno,Locarno,Ticino
+963,Fiesch,Goms,Valais / Wallis
+964,Cazis,Hinterrhein,Graubünden / Grigioni / Grischun
+965,Porrentruy,Porrentruy,Jura
+966,Walterswil (SO),Olten,Solothurn
+967,Romainmôtier-Envy,Jura-Nord vaudois,Vaud
+968,Meltingen,Thierstein,Solothurn
+969,Därligen,Interlaken-Oberhasli,Bern / Berne
+970,Saint-Brais,Les Franches-Montagnes,Jura
+971,Essertines-sur-Rolle,Nyon,Vaud
+972,Grandfontaine,Porrentruy,Jura
+973,Niederlenz,Lenzburg,Aargau
+974,Giornico,Leventina,Ticino
+975,Champéry,Monthey,Valais / Wallis
+976,Lenzburg,Lenzburg,Aargau
+977,Centovalli,Locarno,Ticino
+978,Köniz,Appenzell Ausserrhoden,Bern / Berne
+979,Kesswil,Arbon,Thurgau
+980,Gams,Werdenberg,St. Gallen
+981,Hermrigen,Seeland,Bern / Berne
+982,Böckten,Sissach,Basel-Landschaft
+983,Cressier (FR),See / Lac,Fribourg / Freiburg
+984,Roveredo (GR),Moesa,Graubünden / Grigioni / Grischun
+985,Romont (FR),La Glâne,Fribourg / Freiburg
+986,Schwellbrunn,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+987,Cugnasco-Gerra,Locarno,Ticino
+988,Ulmiz,See / Lac,Fribourg / Freiburg
+989,Würenlos,Baden,Aargau
+990,Orges,Jura-Nord vaudois,Vaud
+991,Diegten,Waldenburg,Basel-Landschaft
+992,Bettwiesen,Münchwilen,Thurgau
+993,Münsterlingen,Kreuzlingen,Thurgau
+994,Schönholzerswilen,Weinfelden,Thurgau
+995,Reichenbach im Kandertal,Frutigen-Niedersimmental,Bern / Berne
+996,Langenthal,Oberaargau,Bern / Berne
+997,Wölflinswil,Laufenburg,Aargau
+998,Matten bei Interlaken,Interlaken-Oberhasli,Bern / Berne
+999,Guttet-Feschel,Leuk,Valais / Wallis
+1000,Wangen-Brüttisellen,Uster,Zürich
+1001,Thunstetten,Oberaargau,Bern / Berne
+1002,Fischbach-Göslikon,Bremgarten,Aargau
+1003,Merenschwand,Muri,Aargau
+1004,Rhäzüns,Imboden,Graubünden / Grigioni / Grischun
+1005,Belmont-sur-Yverdon,Jura-Nord vaudois,Vaud
+1006,Carouge (GE),Canton de Genève,Genève
+1007,Sargans,Sarganserland,St. Gallen
+1008,Hochwald,Dorneck,Solothurn
+1009,Arosa,Plessur,Graubünden / Grigioni / Grischun
+1010,Eriswil,Oberaargau,Bern / Berne
+1011,Stetten (AG),Baden,Aargau
+1012,Birwinken,Weinfelden,Thurgau
+1013,Saxon,Martigny,Valais / Wallis
+1014,Unterlunkhofen,Bremgarten,Aargau
+1015,Bleienbach,Oberaargau,Bern / Berne
+1016,Cornaux,Neuchâtel,Neuchâtel
+1017,La Baroche,Porrentruy,Jura
+1018,Pfaffnau,Willisau,Luzern
+1019,Vaux-sur-Morges,Morges,Vaud
+1020,Giffers,Sense,Fribourg / Freiburg
+1021,Bever,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1022,Pomy,Jura-Nord vaudois,Vaud
+1023,Hubersdorf,Lebern,Solothurn
+1024,Oberhelfenschwil,Toggenburg,St. Gallen
+1025,Wil (SG),Wil,St. Gallen
+1026,Wahlen,Laufen,Basel-Landschaft
+1027,Uetikon am See,Meilen,Zürich
+1028,Maur,Uster,Zürich
+1029,Islisberg,Bremgarten,Aargau
+1030,Sorengo,Lugano,Ticino
+1031,La Sonnaz,La Sarine,Fribourg / Freiburg
+1032,Dättlikon,Winterthur,Zürich
+1033,Sempach,Sursee,Luzern
+1034,Zwingen,Laufen,Basel-Landschaft
+1035,Oberrüti,Muri,Aargau
+1036,Collombey-Muraz,Monthey,Valais / Wallis
+1037,Hohenrain,Hochdorf,Luzern
+1038,Dulliken,Olten,Solothurn
+1039,Châtonnaye,La Glâne,Fribourg / Freiburg
+1040,Monthey,Monthey,Valais / Wallis
+1041,Genolier,Nyon,Vaud
+1042,Bercher,Gros-de-Vaud,Vaud
+1043,Perroy,Nyon,Vaud
+1044,Trogen,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1045,Vaulion,Jura-Nord vaudois,Vaud
+1046,Miglieglia,Lugano,Ticino
+1047,Uzwil,Wil,St. Gallen
+1048,Freienwil,Baden,Aargau
+1049,La Verrerie,La Veveyse,Fribourg / Freiburg
+1050,Wettingen,Baden,Aargau
+1051,Chiasso,Mendrisio,Ticino
+1052,Brugg,Brugg,Aargau
+1053,Meilen,Meilen,Zürich
+1054,Steinhausen,Kanton Zug,Zug
+1055,Madulain,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1056,Novaggio,Lugano,Ticino
+1057,Kestenholz,Gäu,Solothurn
+1058,Uttigen,Thun,Bern / Berne
+1059,Villnachern,Brugg,Aargau
+1060,Hérémence,Hérens,Valais / Wallis
+1061,Witterswil,Dorneck,Solothurn
+1062,Mézières (FR),La Glâne,Fribourg / Freiburg
+1063,Trun,Surselva,Graubünden / Grigioni / Grischun
+1064,Pully,Lavaux-Oron,Vaud
+1065,Rüthi (SG),Rheintal,St. Gallen
+1066,Agno,Lugano,Ticino
+1067,Bremgarten bei Bern,Appenzell Ausserrhoden,Bern / Berne
+1068,Bottenwil,Zofingen,Aargau
+1069,Lully (FR),La Broye,Fribourg / Freiburg
+1070,Drei Höfe,Wasseramt,Solothurn
+1071,Orvin,Jura bernois,Bern / Berne
+1072,Wislikofen,Zurzach,Aargau
+1073,Sulgen,Weinfelden,Thurgau
+1074,Cottens (FR),La Sarine,Fribourg / Freiburg
+1075,Grenchen,Lebern,Solothurn
+1076,Nendaz,Conthey,Valais / Wallis
+1077,Isérables,Martigny,Valais / Wallis
+1078,Amsoldingen,Thun,Bern / Berne
+1079,Mellikon,Zurzach,Aargau
+1080,Corcelles-près-Concise,Jura-Nord vaudois,Vaud
+1081,Evilard,Biel/Bienne,Bern / Berne
+1082,Unterengstringen,Dietikon,Zürich
+1083,Collina d'Oro,Lugano,Ticino
+1084,Vilters-Wangs,Sarganserland,St. Gallen
+1085,Hendschiken,Lenzburg,Aargau
+1086,Dompierre (VD),Broye-Vully,Vaud
+1087,Allmendingen,Appenzell Ausserrhoden,Bern / Berne
+1088,Orselina,Locarno,Ticino
+1089,Adliswil,Horgen,Zürich
+1090,Giebenach,Liestal,Basel-Landschaft
+1091,Schwyz,Schwyz,Schwyz
+1092,Schwerzenbach,Uster,Zürich
+1093,Pompaples,Morges,Vaud
+1094,Heimenhausen,Oberaargau,Bern / Berne
+1095,Deitingen,Wasseramt,Solothurn
+1096,Regensdorf,Dielsdorf,Zürich
+1097,Aristau,Muri,Aargau
+1098,Bischofszell,Weinfelden,Thurgau
+1099,Hüntwangen,Bülach,Zürich
+1100,Küsnacht (ZH),Meilen,Zürich
+1101,Villars-sous-Yens,Morges,Vaud
+1102,Boniswil,Lenzburg,Aargau
+1103,Bedigliora,Lugano,Ticino
+1104,Moutier,Jura bernois,Bern / Berne
+1105,Bex,Aigle,Vaud
+1106,Dinhard,Winterthur,Zürich
+1107,Cureglia,Lugano,Ticino
+1108,Glarus Nord,Kanton Glarus,Glarus
+1109,Gollion,Morges,Vaud
+1110,Froideville,Gros-de-Vaud,Vaud
+1111,Gals,Seeland,Bern / Berne
+1112,Münchenstein,Arlesheim,Basel-Landschaft
+1113,Oberwil (BL),Arlesheim,Basel-Landschaft
+1114,Grossdietwil,Willisau,Luzern
+1115,Rumisberg,Oberaargau,Bern / Berne
+1116,Sâles,La Gruyère,Fribourg / Freiburg
+1117,Les Bois,Les Franches-Montagnes,Jura
+1118,Bachs,Dielsdorf,Zürich
+1119,Saint-Léonard,Sierre,Valais / Wallis
+1120,Nunningen,Thierstein,Solothurn
+1121,Neftenbach,Winterthur,Zürich
+1122,Saas-Grund,Visp,Valais / Wallis
+1123,Adligenswil,Luzern-Land,Luzern
+1124,Rongellen,Hinterrhein,Graubünden / Grigioni / Grischun
+1125,Aadorf,Münchwilen,Thurgau
+1126,Rafz,Bülach,Zürich
+1127,Buchillon,Morges,Vaud
+1128,Tramelan,Jura bernois,Bern / Berne
+1129,Noville,Aigle,Vaud
+1130,Kappel (SO),Olten,Solothurn
+1131,Vallorbe,Jura-Nord vaudois,Vaud
+1132,Zunzgen,Sissach,Basel-Landschaft
+1133,Grimisuat,Sion,Valais / Wallis
+1134,Schattdorf,Kanton Uri,Uri
+1135,Waltenschwil,Muri,Aargau
+1136,Holderbank (AG),Lenzburg,Aargau
+1137,Zell (LU),Willisau,Luzern
+1138,Ermensee,Hochdorf,Luzern
+1139,Conters im Prättigau,Prättigau-Davos,Graubünden / Grigioni / Grischun
+1140,Attalens,La Veveyse,Fribourg / Freiburg
+1141,Dachsen,Andelfingen,Zürich
+1142,Belprahon,Jura bernois,Bern / Berne
+1143,Les Breuleux,Les Franches-Montagnes,Jura
+1144,Meiringen,Interlaken-Oberhasli,Bern / Berne
+1145,Courgevaux,See / Lac,Fribourg / Freiburg
+1146,Kilchberg (ZH),Horgen,Zürich
+1147,Chénens,La Sarine,Fribourg / Freiburg
+1148,Trin,Imboden,Graubünden / Grigioni / Grischun
+1149,Adelboden,Frutigen-Niedersimmental,Bern / Berne
+1150,Langrickenbach,Kreuzlingen,Thurgau
+1151,Sirnach,Münchwilen,Thurgau
+1152,Villorsonnens,La Glâne,Fribourg / Freiburg
+1153,Hauenstein-Ifenthal,Gösgen,Solothurn
+1154,Gsteigwiler,Interlaken-Oberhasli,Bern / Berne
+1155,Buochs,Kanton Nidwalden,Nidwalden
+1156,Vionnaz,Monthey,Valais / Wallis
+1157,Fischingen,Münchwilen,Thurgau
+1158,Niederweningen,Dielsdorf,Zürich
+1159,Biberist,Wasseramt,Solothurn
+1160,Roche (VD),Aigle,Vaud
+1161,Dägerlen,Winterthur,Zürich
+1162,Chéserex,Nyon,Vaud
+1163,Sion,Sion,Valais / Wallis
+1164,Ammerswil,Lenzburg,Aargau
+1165,Saules (BE),Jura bernois,Bern / Berne
+1166,Sursee,Sursee,Luzern
+1167,Valsot,Inn,Graubünden / Grigioni / Grischun
+1168,Diessenhofen,Frauenfeld,Thurgau
+1169,Hasle bei Burgdorf,Emmental,Bern / Berne
+1170,Inwil,Hochdorf,Luzern
+1171,Oberriet (SG),Rheintal,St. Gallen
+1172,Zielebach,Emmental,Bern / Berne
+1173,Sorens,La Gruyère,Fribourg / Freiburg
+1174,Gontenschwil,Kulm,Aargau
+1175,Uezwil,Bremgarten,Aargau
+1176,Ferpicloz,La Sarine,Fribourg / Freiburg
+1177,Dittingen,Laufen,Basel-Landschaft
+1178,Vezia,Lugano,Ticino
+1179,Menziken,Kulm,Aargau
+1180,Balsthal,Thal,Solothurn
+1181,Sigriswil,Thun,Bern / Berne
+1182,La Brillaz,La Sarine,Fribourg / Freiburg
+1183,Saint-Cergue,Nyon,Vaud
+1184,Dizy,Morges,Vaud
+1185,Gebenstorf,Baden,Aargau
+1186,Niederbuchsiten,Gäu,Solothurn
+1187,Reute (AR),Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1188,Veltheim (AG),Brugg,Aargau
+1189,Itingen,Sissach,Basel-Landschaft
+1190,Burg im Leimental,Laufen,Basel-Landschaft
+1191,Bretonnières,Jura-Nord vaudois,Vaud
+1192,Männedorf,Meilen,Zürich
+1193,Leibstadt,Zurzach,Aargau
+1194,Feldbrunnen-St. Niklaus,Lebern,Solothurn
+1195,Wauwil,Willisau,Luzern
+1196,Rümlingen,Sissach,Basel-Landschaft
+1197,Marchissy,Nyon,Vaud
+1198,Soral,Canton de Genève,Genève
+1199,Ollon,Aigle,Vaud
+1200,Chippis,Sierre,Valais / Wallis
+1201,Suchy,Jura-Nord vaudois,Vaud
+1202,Eichberg,Rheintal,St. Gallen
+1203,Amden,See-Gaster,St. Gallen
+1204,Meikirch,Appenzell Ausserrhoden,Bern / Berne
+1205,Menznau,Willisau,Luzern
+1206,Val-de-Ruz,Val-de-Ruz,Neuchâtel
+1207,Pollegio,Leventina,Ticino
+1208,Buchegg,Bucheggberg,Solothurn
+1209,Bourg-Saint-Pierre,Entremont,Valais / Wallis
+1210,Trey,Broye-Vully,Vaud
+1211,Villeneuve (VD),Aigle,Vaud
+1212,La Ferrière,Jura bernois,Bern / Berne
+1213,Ferden,Raron,Valais / Wallis
+1214,Port,Biel/Bienne,Bern / Berne
+1215,Bürglen (UR),Kanton Uri,Uri
+1216,Altikon,Winterthur,Zürich
+1217,Obergösgen,Gösgen,Solothurn
+1218,Oetwil an der Limmat,Dietikon,Zürich
+1219,Wila,Pfäffikon,Zürich
+1220,Fey,Gros-de-Vaud,Vaud
+1221,Saint-Barthélemy (VD),Gros-de-Vaud,Vaud
+1222,Roggwil (TG),Arbon,Thurgau
+1223,Hemmiken,Sissach,Basel-Landschaft
+1224,Scheuren,Biel/Bienne,Bern / Berne
+1225,Haute-Sorne,Delémont,Jura
+1226,Allschwil,Arlesheim,Basel-Landschaft
+1227,Chavannes-le-Veyron,Morges,Vaud
+1228,Stein am Rhein,Stein,Schaffhausen
+1229,Laufen,Laufen,Basel-Landschaft
+1230,Tolochenaz,Morges,Vaud
+1231,Cortébert,Jura bernois,Bern / Berne
+1232,Münchwilen (TG),Münchwilen,Thurgau
+1233,Arth,Schwyz,Schwyz
+1234,Eggerberg,Brig,Valais / Wallis
+1235,Kirchberg (SG),Toggenburg,St. Gallen
+1236,Genève,Canton de Genève,Genève
+1237,Kappelen,Seeland,Bern / Berne
+1238,Fürstenau,Hinterrhein,Graubünden / Grigioni / Grischun
+1239,Matzingen,Frauenfeld,Thurgau
+1240,Hedingen,Affoltern,Zürich
+1241,Affoltern im Emmental,Emmental,Bern / Berne
+1242,Tübach,Rorschach,St. Gallen
+1243,Hauteville,La Gruyère,Fribourg / Freiburg
+1244,Ennetbaden,Baden,Aargau
+1245,Plaffeien,Sense,Fribourg / Freiburg
+1246,Préverenges,Morges,Vaud
+1247,Tschappina,Hinterrhein,Graubünden / Grigioni / Grischun
+1248,Messen,Bucheggberg,Solothurn
+1249,Confignon,Canton de Genève,Genève
+1250,Ormont-Dessus,Aigle,Vaud
+1251,Buchs (SG),Werdenberg,St. Gallen
+1252,Büren (SO),Dorneck,Solothurn
+1253,Düdingen,Sense,Fribourg / Freiburg
+1254,Rüti (ZH),Hinwil,Zürich
+1255,Felsberg,Imboden,Graubünden / Grigioni / Grischun
+1256,Mont-Noble,Hérens,Valais / Wallis
+1257,Bütschwil-Ganterschwil,Toggenburg,St. Gallen
+1258,Savosa,Lugano,Ticino
+1259,Toffen,Appenzell Ausserrhoden,Bern / Berne
+1260,Krauchthal,Emmental,Bern / Berne
+1261,Bettwil,Muri,Aargau
+1262,Muttenz,Arlesheim,Basel-Landschaft
+1263,Grandcour,Broye-Vully,Vaud
+1264,Jussy,Canton de Genève,Genève
+1265,Gündlischwand,Interlaken-Oberhasli,Bern / Berne
+1266,Davos,Prättigau-Davos,Graubünden / Grigioni / Grischun
+1267,Hunzenschwil,Lenzburg,Aargau
+1268,Stüsslingen,Gösgen,Solothurn
+1269,Giez,Jura-Nord vaudois,Vaud
+1270,Aesch (ZH),Dietikon,Zürich
+1271,Rossinière,Riviera-Pays-d'Enhaut,Vaud
+1272,Kaisten,Laufenburg,Aargau
+1273,Treiten,Seeland,Bern / Berne
+1274,Kehrsatz,Appenzell Ausserrhoden,Bern / Berne
+1275,Ponte Tresa,Lugano,Ticino
+1276,Gempen,Dorneck,Solothurn
+1277,Vulliens,Broye-Vully,Vaud
+1278,Zeihen,Laufenburg,Aargau
+1279,Jongny,Riviera-Pays-d'Enhaut,Vaud
+1280,Dänikon,Dielsdorf,Zürich
+1281,Rebstein,Rheintal,St. Gallen
+1282,Echandens,Morges,Vaud
+1283,Urtenen-Schönbühl,Appenzell Ausserrhoden,Bern / Berne
+1284,Yens,Morges,Vaud
+1285,Müntschemier,Seeland,Bern / Berne
+1286,Aeschi (SO),Wasseramt,Solothurn
+1287,Riaz,La Gruyère,Fribourg / Freiburg
+1288,Bonfol,Porrentruy,Jura
+1289,Chamoson,Conthey,Valais / Wallis
+1290,St. Niklaus,Visp,Valais / Wallis
+1291,Ramlinsburg,Liestal,Basel-Landschaft
+1292,Holziken,Kulm,Aargau
+1293,Courgenay,Porrentruy,Jura
+1294,Starrkirch-Wil,Olten,Solothurn
+1295,Döttingen,Zurzach,Aargau
+1296,Dietwil,Muri,Aargau
+1297,Eclépens,Morges,Vaud
+1298,Oberdorf (SO),Lebern,Solothurn
+1299,Ferenbalm,Appenzell Ausserrhoden,Bern / Berne
+1300,Zwieselberg,Thun,Bern / Berne
+1301,Kloten,Bülach,Zürich
+1302,Oberdorf (NW),Kanton Nidwalden,Nidwalden
+1303,Silvaplana,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1304,Assens,Gros-de-Vaud,Vaud
+1305,Wolfhalden,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1306,Liesberg,Laufen,Basel-Landschaft
+1307,Zizers,Landquart,Graubünden / Grigioni / Grischun
+1308,Unteriberg,Schwyz,Schwyz
+1309,Courtelary,Jura bernois,Bern / Berne
+1310,Founex,Nyon,Vaud
+1311,Altstätten,Rheintal,St. Gallen
+1312,Seftigen,Thun,Bern / Berne
+1313,Oberengstringen,Dietikon,Zürich
+1314,Wattwil,Toggenburg,St. Gallen
+1315,Strengelbach,Zofingen,Aargau
+1316,Aeugst am Albis,Affoltern,Zürich
+1317,Bourrignon,Delémont,Jura
+1318,Unterbäch,Raron,Valais / Wallis
+1319,Lauwil,Waldenburg,Basel-Landschaft
+1320,Jorat-Menthue,Gros-de-Vaud,Vaud
+1321,Fischbach,Willisau,Luzern
+1322,Neuenkirch,Sursee,Luzern
+1323,Flawil,Wil,St. Gallen
+1324,Rickenbach (SO),Olten,Solothurn
+1325,Sissach,Sissach,Basel-Landschaft
+1326,Cressier (NE),Neuchâtel,Neuchâtel
+1327,L'Abergement,Jura-Nord vaudois,Vaud
+1328,Walkringen,Appenzell Ausserrhoden,Bern / Berne
+1329,Huttwil,Oberaargau,Bern / Berne
+1330,Pura,Lugano,Ticino
+1331,Rances,Jura-Nord vaudois,Vaud
+1332,Gossau (SG),St. Gallen,St. Gallen
+1333,Pampigny,Morges,Vaud
+1334,Schönenbuch,Arlesheim,Basel-Landschaft
+1335,Siblingen,Schleitheim,Schaffhausen
+1336,Baar,Kanton Zug,Zug
+1337,Kilchberg (BL),Sissach,Basel-Landschaft
+1338,Serravalle,Blenio,Ticino
+1339,Humlikon,Andelfingen,Zürich
+1340,Mels,Sarganserland,St. Gallen
+1341,Entlebuch,Entlebuch,Luzern
+1342,Wilen (TG),Münchwilen,Thurgau
+1343,Lupsingen,Liestal,Basel-Landschaft
+1344,Neckertal,Toggenburg,St. Gallen
+1345,Münchwilen (AG),Laufenburg,Aargau
+1346,Corcelles-le-Jorat,Broye-Vully,Vaud
+1347,Fieschertal,Goms,Valais / Wallis
+1348,Avry,La Sarine,Fribourg / Freiburg
+1349,Widen,Bremgarten,Aargau
+1350,Remetschwil,Baden,Aargau
+1351,Münchenbuchsee,Appenzell Ausserrhoden,Bern / Berne
+1352,Thörigen,Oberaargau,Bern / Berne
+1353,Wädenswil,Horgen,Zürich
+1354,Ochlenberg,Oberaargau,Bern / Berne
+1355,Rubigen,Appenzell Ausserrhoden,Bern / Berne
+1356,Les Montets,La Broye,Fribourg / Freiburg
+1357,Origlio,Lugano,Ticino
+1358,Schmitten (GR),Albula,Graubünden / Grigioni / Grischun
+1359,Speicher,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1360,Berg am Irchel,Andelfingen,Zürich
+1361,Zuchwil,Wasseramt,Solothurn
+1362,Oberbuchsiten,Gäu,Solothurn
+1363,Biezwil,Bucheggberg,Solothurn
+1364,Schöftland,Kulm,Aargau
+1365,Gachnang,Frauenfeld,Thurgau
+1366,Valeyres-sous-Ursins,Jura-Nord vaudois,Vaud
+1367,Staffelbach,Zofingen,Aargau
+1368,Mutrux,Jura-Nord vaudois,Vaud
+1369,Vufflens-le-Château,Morges,Vaud
+1370,Bäriswil,Appenzell Ausserrhoden,Bern / Berne
+1371,Riederalp,Raron,Valais / Wallis
+1372,Mörigen,Biel/Bienne,Bern / Berne
+1373,Brütten,Winterthur,Zürich
+1374,Penthéréaz,Gros-de-Vaud,Vaud
+1375,Meyriez,See / Lac,Fribourg / Freiburg
+1376,Collonges,Saint-Maurice,Valais / Wallis
+1377,La Chaux-du-Milieu,Le Locle,Neuchâtel
+1378,Flumenthal,Lebern,Solothurn
+1379,Satigny,Canton de Genève,Genève
+1380,Rupperswil,Lenzburg,Aargau
+1381,Liedertswil,Waldenburg,Basel-Landschaft
+1382,Gravesano,Lugano,Ticino
+1383,Bühl,Seeland,Bern / Berne
+1384,Grindel,Thierstein,Solothurn
+1385,Melide,Lugano,Ticino
+1386,Beinwil (Freiamt),Muri,Aargau
+1387,Courtepin,See / Lac,Fribourg / Freiburg
+1388,Wiggiswil,Appenzell Ausserrhoden,Bern / Berne
+1389,Thusis,Hinterrhein,Graubünden / Grigioni / Grischun
+1390,Losone,Locarno,Ticino
+1391,Muralto,Locarno,Ticino
+1392,Tartegnin,Nyon,Vaud
+1393,La Brévine,Le Locle,Neuchâtel
+1394,Liddes,Entremont,Valais / Wallis
+1395,Arbaz,Sion,Valais / Wallis
+1396,Dardagny,Canton de Genève,Genève
+1397,Buttisholz,Sursee,Luzern
+1398,Quarten,Sarganserland,St. Gallen
+1399,Stalden (VS),Visp,Valais / Wallis
+1400,Wallbach,Rheinfelden,Aargau
+1401,Misery-Courtion,See / Lac,Fribourg / Freiburg
+1402,Tujetsch,Surselva,Graubünden / Grigioni / Grischun
+1403,Perrefitte,Jura bernois,Bern / Berne
+1404,Auw,Muri,Aargau
+1405,Stansstad,Kanton Nidwalden,Nidwalden
+1406,Matzendorf,Thal,Solothurn
+1407,Weiningen (ZH),Dietikon,Zürich
+1408,Brienzwiler,Interlaken-Oberhasli,Bern / Berne
+1409,Dietlikon,Bülach,Zürich
+1410,Buchrain,Luzern-Land,Luzern
+1411,Kemmental,Kreuzlingen,Thurgau
+1412,Sumiswald,Emmental,Bern / Berne
+1413,Affeltrangen,Weinfelden,Thurgau
+1414,Koblenz,Zurzach,Aargau
+1415,Cevio,Vallemaggia,Ticino
+1416,Bäretswil,Hinwil,Zürich
+1417,Herrliberg,Meilen,Zürich
+1418,Prangins,Nyon,Vaud
+1419,Fehren,Thierstein,Solothurn
+1420,Beckenried,Kanton Nidwalden,Nidwalden
+1421,Himmelried,Thierstein,Solothurn
+1422,Kiesen,Appenzell Ausserrhoden,Bern / Berne
+1423,Bellwald,Goms,Valais / Wallis
+1424,Mumpf,Rheinfelden,Aargau
+1425,Winznau,Gösgen,Solothurn
+1426,Fisibach,Zurzach,Aargau
+1427,Oberbalm,Appenzell Ausserrhoden,Bern / Berne
+1428,Ringgenberg (BE),Interlaken-Oberhasli,Bern / Berne
+1429,Füllinsdorf,Liestal,Basel-Landschaft
+1430,Geroldswil,Dietikon,Zürich
+1431,Pierrafortscha,La Sarine,Fribourg / Freiburg
+1432,Günsberg,Lebern,Solothurn
+1433,Heiden,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1434,Bedano,Lugano,Ticino
+1435,Lengwil,Kreuzlingen,Thurgau
+1436,Gaiserwald,St. Gallen,St. Gallen
+1437,Galgenen,March,Schwyz
+1438,Amriswil,Arbon,Thurgau
+1439,Hombrechtikon,Meilen,Zürich
+1440,Ardon,Conthey,Valais / Wallis
+1441,Hittnau,Pfäffikon,Zürich
+1442,Degersheim,Wil,St. Gallen
+1443,Schmitten (FR),Sense,Fribourg / Freiburg
+1444,Baldingen,Zurzach,Aargau
+1445,Saint-Martin (FR),La Veveyse,Fribourg / Freiburg
+1446,Farnern,Oberaargau,Bern / Berne
+1447,Villmergen,Bremgarten,Aargau
+1448,Saint-Sulpice (VD),Ouest lausannois,Vaud
+1449,Titterten,Waldenburg,Basel-Landschaft
+1450,Hofstetten-Flüh,Dorneck,Solothurn
+1451,Monteggio,Lugano,Ticino
+1452,Neuhausen am Rheinfall,Schaffhausen,Schaffhausen
+1453,Buchberg,Schaffhausen,Schaffhausen
+1454,Gurbrü,Appenzell Ausserrhoden,Bern / Berne
+1455,Bottighofen,Kreuzlingen,Thurgau
+1456,Apples,Morges,Vaud
+1457,Soyhières,Delémont,Jura
+1458,Merzligen,Seeland,Bern / Berne
+1459,Bière,Morges,Vaud
+1460,Bern,Appenzell Ausserrhoden,Bern / Berne
+1461,Luins,Nyon,Vaud
+1462,Subingen,Wasseramt,Solothurn
+1463,Kradolf-Schönenberg,Weinfelden,Thurgau
+1464,Rüschlikon,Horgen,Zürich
+1465,Chardonne,Riviera-Pays-d'Enhaut,Vaud
+1466,Wallisellen,Bülach,Zürich
+1467,Röthenbach im Emmental,Emmental,Bern / Berne
+1468,Hausen am Albis,Affoltern,Zürich
+1469,Jenaz,Prättigau-Davos,Graubünden / Grigioni / Grischun
+1470,Galmiz,See / Lac,Fribourg / Freiburg
+1471,Grandevent,Jura-Nord vaudois,Vaud
+1472,Werthenstein,Entlebuch,Luzern
+1473,Yverdon-les-Bains,Jura-Nord vaudois,Vaud
+1474,Hohentannen,Weinfelden,Thurgau
+1475,Wohlen (AG),Bremgarten,Aargau
+1476,Saanen,Obersimmental-Saanen,Bern / Berne
+1477,Schupfart,Rheinfelden,Aargau
+1478,Leissigen,Interlaken-Oberhasli,Bern / Berne
+1479,La Roche,La Gruyère,Fribourg / Freiburg
+1480,Ermatingen,Kreuzlingen,Thurgau
+1481,Root,Luzern-Land,Luzern
+1482,Massongex,Saint-Maurice,Valais / Wallis
+1483,Samedan,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1484,Servion,Lavaux-Oron,Vaud
+1485,Botterens,La Gruyère,Fribourg / Freiburg
+1486,Arnex-sur-Nyon,Nyon,Vaud
+1487,Hünenberg,Kanton Zug,Zug
+1488,Uerkheim,Zofingen,Aargau
+1489,Güttingen,Kreuzlingen,Thurgau
+1490,Lausanne,Lausanne,Vaud
+1491,Jegenstorf,Appenzell Ausserrhoden,Bern / Berne
+1492,Aire-la-Ville,Canton de Genève,Genève
+1493,Weisslingen,Pfäffikon,Zürich
+1494,Steffisburg,Thun,Bern / Berne
+1495,Reverolle,Morges,Vaud
+1496,Rüschegg,Appenzell Ausserrhoden,Bern / Berne
+1497,Endingen,Zurzach,Aargau
+1498,Curio,Lugano,Ticino
+1499,Rovray,Jura-Nord vaudois,Vaud
+1500,Herznach,Laufenburg,Aargau
+1501,Le Lieu,Jura-Nord vaudois,Vaud
+1502,Cornol,Porrentruy,Jura
+1503,Dorénaz,Saint-Maurice,Valais / Wallis
+1504,Ballens,Morges,Vaud
+1505,Le Flon,La Veveyse,Fribourg / Freiburg
+1506,Mont-sur-Rolle,Nyon,Vaud
+1507,Masein,Hinterrhein,Graubünden / Grigioni / Grischun
+1508,Ruswil,Sursee,Luzern
+1509,Mies,Nyon,Vaud
+1510,Kallnach,Seeland,Bern / Berne
+1511,Oeschgen,Laufenburg,Aargau
+1512,Belmont-sur-Lausanne,Lavaux-Oron,Vaud
+1513,Rüderswil,Emmental,Bern / Berne
+1514,Birmenstorf (AG),Baden,Aargau
+1515,Wassen,Kanton Uri,Uri
+1516,Avegno Gordevio,Vallemaggia,Ticino
+1517,Wigoltingen,Weinfelden,Thurgau
+1518,Aesch (BL),Arlesheim,Basel-Landschaft
+1519,Wittnau,Laufenburg,Aargau
+1520,Moosseedorf,Appenzell Ausserrhoden,Bern / Berne
+1521,Lengnau (AG),Zurzach,Aargau
+1522,Bowil,Appenzell Ausserrhoden,Bern / Berne
+1523,Val-de-Travers,Val-de-Travers,Neuchâtel
+1524,Brislach,Laufen,Basel-Landschaft
+1525,Iffwil,Appenzell Ausserrhoden,Bern / Berne
+1526,Orny,Morges,Vaud
+1527,Thierachern,Thun,Bern / Berne
+1528,Sisseln,Laufenburg,Aargau
+1529,Féchy,Morges,Vaud
+1530,Oftringen,Zofingen,Aargau
+1531,Vufflens-la-Ville,Gros-de-Vaud,Vaud
+1532,Altbüron,Willisau,Luzern
+1533,Pleigne,Delémont,Jura
+1534,Bargen (SH),Schaffhausen,Schaffhausen
+1535,Sévaz,La Broye,Fribourg / Freiburg
+1536,Jonschwil,Wil,St. Gallen
+1537,Mathod,Jura-Nord vaudois,Vaud
+1538,Appenzell,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+1539,Meierskappel,Luzern-Land,Luzern
+1540,Ettiswil,Willisau,Luzern
+1541,Windisch,Brugg,Aargau
+1542,Wisen (SO),Gösgen,Solothurn
+1543,Saicourt,Jura bernois,Bern / Berne
+1544,Schwende,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+1545,Sevelen,Werdenberg,St. Gallen
+1546,Ligerz,Biel/Bienne,Bern / Berne
+1547,Hallau,Unterklettgau,Schaffhausen
+1548,Muzzano,Lugano,Ticino
+1549,Laupersdorf,Thal,Solothurn
+1550,Tafers,Sense,Fribourg / Freiburg
+1551,Gisikon,Luzern-Land,Luzern
+1552,La Tour-de-Peilz,Riviera-Pays-d'Enhaut,Vaud
+1553,Mattstetten,Appenzell Ausserrhoden,Bern / Berne
+1554,Oberlangenegg,Thun,Bern / Berne
+1555,Rüdlingen,Schaffhausen,Schaffhausen
+1556,Bottmingen,Arlesheim,Basel-Landschaft
+1557,Broc,La Gruyère,Fribourg / Freiburg
+1558,Epalinges,Lausanne,Vaud
+1559,Coldrerio,Mendrisio,Ticino
+1560,Courchapoix,Delémont,Jura
+1561,Schöfflisdorf,Dielsdorf,Zürich
+1562,Muotathal,Schwyz,Schwyz
+1563,Rothenburg,Hochdorf,Luzern
+1564,Neunforn,Frauenfeld,Thurgau
+1565,Weinfelden,Weinfelden,Thurgau
+1566,Mettauertal,Laufenburg,Aargau
+1567,Tegerfelden,Zurzach,Aargau
+1568,Lampenberg,Waldenburg,Basel-Landschaft
+1569,Zollikofen,Appenzell Ausserrhoden,Bern / Berne
+1570,Fräschels,See / Lac,Fribourg / Freiburg
+1571,Les Genevez (JU),Les Franches-Montagnes,Jura
+1572,Bönigen,Interlaken-Oberhasli,Bern / Berne
+1573,Kandergrund,Frutigen-Niedersimmental,Bern / Berne
+1574,Alchenstorf,Emmental,Bern / Berne
+1575,Cheseaux-Noréaz,Jura-Nord vaudois,Vaud
+1576,Cadempino,Lugano,Ticino
+1577,Saint-George,Nyon,Vaud
+1578,Brusio,Bernina,Graubünden / Grigioni / Grischun
+1579,Cugy (FR),La Broye,Fribourg / Freiburg
+1580,Veyrier,Canton de Genève,Genève
+1581,Villeret,Jura bernois,Bern / Berne
+1582,Vernier,Canton de Genève,Genève
+1583,Wohlenschwil,Baden,Aargau
+1584,Mörel-Filet,Raron,Valais / Wallis
+1585,Le Grand-Saconnex,Canton de Genève,Genève
+1586,Bergdietikon,Baden,Aargau
+1587,Bünzen,Muri,Aargau
+1588,Clos du Doubs,Porrentruy,Jura
+1589,Maisprach,Sissach,Basel-Landschaft
+1590,Ronco sopra Ascona,Locarno,Ticino
+1591,Trub,Emmental,Bern / Berne
+1592,Eysins,Nyon,Vaud
+1593,Spreitenbach,Baden,Aargau
+1594,Wetzikon (ZH),Hinwil,Zürich
+1595,Jens,Seeland,Bern / Berne
+1596,Eglisau,Bülach,Zürich
+1597,Hochfelden,Bülach,Zürich
+1598,Gilly,Nyon,Vaud
+1599,Auswil,Oberaargau,Bern / Berne
+1600,Laconnex,Canton de Genève,Genève
+1601,Walperswil,Seeland,Bern / Berne
+1602,Nuvilly,La Broye,Fribourg / Freiburg
+1603,Hofstetten bei Brienz,Interlaken-Oberhasli,Bern / Berne
+1604,Vich,Nyon,Vaud
+1605,Muri (AG),Muri,Aargau
+1606,Hinwil,Hinwil,Zürich
+1607,Unterlangenegg,Thun,Bern / Berne
+1608,Val Müstair,Inn,Graubünden / Grigioni / Grischun
+1609,Lamone,Lugano,Ticino
+1610,Le Locle,Le Locle,Neuchâtel
+1611,Mönchaltorf,Uster,Zürich
+1612,Val-de-Charmey,La Gruyère,Fribourg / Freiburg
+1613,Oberhof,Laufenburg,Aargau
+1614,Vucherens,Broye-Vully,Vaud
+1615,Lichtensteig,Toggenburg,St. Gallen
+1616,Oppligen,Appenzell Ausserrhoden,Bern / Berne
+1617,Koppigen,Emmental,Bern / Berne
+1618,Terre di Pedemonte,Locarno,Ticino
+1619,Ferreyres,Morges,Vaud
+1620,Etoy,Morges,Vaud
+1621,Varen,Leuk,Valais / Wallis
+1622,Schlatt (TG),Frauenfeld,Thurgau
+1623,Kallern,Muri,Aargau
+1624,Malans,Landquart,Graubünden / Grigioni / Grischun
+1625,Geuensee,Sursee,Luzern
+1626,Schüpfheim,Entlebuch,Luzern
+1627,Escholzmatt-Marbach,Entlebuch,Luzern
+1628,Merishausen,Schaffhausen,Schaffhausen
+1629,Stallikon,Affoltern,Zürich
+1630,Diepflingen,Sissach,Basel-Landschaft
+1631,La Tène,Neuchâtel,Neuchâtel
+1632,Trubschachen,Emmental,Bern / Berne
+1633,Dottikon,Bremgarten,Aargau
+1634,Val Terbi,Delémont,Jura
+1635,Rohrbach,Oberaargau,Bern / Berne
+1636,Fischenthal,Hinwil,Zürich
+1637,Lens,Sierre,Valais / Wallis
+1638,Laufen-Uhwiesen,Andelfingen,Zürich
+1639,Ramsen,Stein,Schaffhausen
+1640,Aigle,Aigle,Vaud
+1641,Erlenbach (ZH),Meilen,Zürich
+1642,Heimiswil,Emmental,Bern / Berne
+1643,Römerswil,Hochdorf,Luzern
+1644,Valbroye,Broye-Vully,Vaud
+1645,Pregny-Chambésy,Canton de Genève,Genève
+1646,Flaach,Andelfingen,Zürich
+1647,Saubraz,Morges,Vaud
+1648,Aegerten,Biel/Bienne,Bern / Berne
+1649,Bardonnex,Canton de Genève,Genève
+1650,Gsteig,Obersimmental-Saanen,Bern / Berne
+1651,Ernen,Goms,Valais / Wallis
+1652,Tavannes,Jura bernois,Bern / Berne
+1653,Saillon,Martigny,Valais / Wallis
+1654,Pohlern,Thun,Bern / Berne
+1655,Rapperswil-Jona,See-Gaster,St. Gallen
+1656,Unterseen,Interlaken-Oberhasli,Bern / Berne
+1657,Buchs (AG),Aarau,Aargau
+1658,Urnäsch,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1659,Bottens,Gros-de-Vaud,Vaud
+1660,Sattel,Schwyz,Schwyz
+1661,Kreuzlingen,Kreuzlingen,Thurgau
+1662,Böbikon,Zurzach,Aargau
+1663,Worben,Seeland,Bern / Berne
+1664,Donneloye,Jura-Nord vaudois,Vaud
+1665,Habsburg,Brugg,Aargau
+1666,Plasselb,Sense,Fribourg / Freiburg
+1667,Delley-Portalban,La Broye,Fribourg / Freiburg
+1668,Bellmund,Biel/Bienne,Bern / Berne
+1669,Aarberg,Seeland,Bern / Berne
+1670,Henggart,Andelfingen,Zürich
+1671,Steinerberg,Schwyz,Schwyz
+1672,Conthey,Conthey,Valais / Wallis
+1673,Elfingen,Brugg,Aargau
+1674,Stettfurt,Frauenfeld,Thurgau
+1675,Häggenschwil,St. Gallen,St. Gallen
+1676,Hersberg,Liestal,Basel-Landschaft
+1677,Lavey-Morcles,Aigle,Vaud
+1678,Weesen,See-Gaster,St. Gallen
+1679,Lüsslingen-Nennigkofen,Bucheggberg,Solothurn
+1680,Muhen,Aarau,Aargau
+1681,St. Margrethen,Rheintal,St. Gallen
+1682,Personico,Leventina,Ticino
+1683,Juriens,Jura-Nord vaudois,Vaud
+1684,Walliswil bei Wangen,Oberaargau,Bern / Berne
+1685,Nürensdorf,Bülach,Zürich
+1686,Wiedlisbach,Oberaargau,Bern / Berne
+1687,Mollens (VD),Morges,Vaud
+1688,Bad Ragaz,Sarganserland,St. Gallen
+1689,Brügg,Biel/Bienne,Bern / Berne
+1690,Kirchlindach,Appenzell Ausserrhoden,Bern / Berne
+1691,Trasadingen,Unterklettgau,Schaffhausen
+1692,Marthalen,Andelfingen,Zürich
+1693,Lignerolle,Jura-Nord vaudois,Vaud
+1694,Zollikon,Meilen,Zürich
+1695,Oberiberg,Schwyz,Schwyz
+1696,Bonaduz,Imboden,Graubünden / Grigioni / Grischun
+1697,Zuoz,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1698,Lauterbrunnen,Interlaken-Oberhasli,Bern / Berne
+1699,Oberembrach,Bülach,Zürich
+1700,Rovio,Lugano,Ticino
+1701,Zuzwil (BE),Appenzell Ausserrhoden,Bern / Berne
+1702,Schleitheim,Schleitheim,Schaffhausen
+1703,Wildberg,Pfäffikon,Zürich
+1704,Meyrin,Canton de Genève,Genève
+1705,Gletterens,La Broye,Fribourg / Freiburg
+1706,Laupen,Appenzell Ausserrhoden,Bern / Berne
+1707,Romanel-sur-Lausanne,Lausanne,Vaud
+1708,Bözen,Brugg,Aargau
+1709,Vinelz,Seeland,Bern / Berne
+1710,Seeberg,Oberaargau,Bern / Berne
+1711,Ballwil,Hochdorf,Luzern
+1712,Uebeschi,Thun,Bern / Berne
+1713,Blenio,Blenio,Ticino
+1714,Seuzach,Winterthur,Zürich
+1715,Saignelégier,Les Franches-Montagnes,Jura
+1716,Erstfeld,Kanton Uri,Uri
+1717,Opfikon,Bülach,Zürich
+1718,Berlingen,Frauenfeld,Thurgau
+1719,Mont-Tramelan,Jura bernois,Bern / Berne
+1720,Falera,Surselva,Graubünden / Grigioni / Grischun
+1721,Rorschach,Rorschach,St. Gallen
+1722,Veytaux,Riviera-Pays-d'Enhaut,Vaud
+1723,Vordemwald,Zofingen,Aargau
+1724,Baltschieder,Visp,Valais / Wallis
+1725,Fétigny,La Broye,Fribourg / Freiburg
+1726,Morschach,Schwyz,Schwyz
+1727,Morbio Inferiore,Mendrisio,Ticino
+1728,Ependes (VD),Jura-Nord vaudois,Vaud
+1729,Hüttlingen,Frauenfeld,Thurgau
+1730,Flims,Imboden,Graubünden / Grigioni / Grischun
+1731,Tschugg,Seeland,Bern / Berne
+1732,Freimettigen,Appenzell Ausserrhoden,Bern / Berne
+1733,Niederhasli,Dielsdorf,Zürich
+1734,Riedholz,Lebern,Solothurn
+1735,Champagne,Jura-Nord vaudois,Vaud
+1736,Saint-Gingolph,Monthey,Valais / Wallis
+1737,Lalden,Visp,Valais / Wallis
+1738,Langenbruck,Waldenburg,Basel-Landschaft
+1739,Rain,Hochdorf,Luzern
+1740,Wängi,Münchwilen,Thurgau
+1741,Aarau,Aarau,Aargau
+1742,Sullens,Gros-de-Vaud,Vaud
+1743,Sergey,Jura-Nord vaudois,Vaud
+1744,Jaun,La Gruyère,Fribourg / Freiburg
+1745,Kerns,Kanton Obwalden,Obwalden
+1746,Chigny,Morges,Vaud
+1747,Erlach,Seeland,Bern / Berne
+1748,Turbenthal,Winterthur,Zürich
+1749,Murgenthal,Zofingen,Aargau
+1750,Thalwil,Horgen,Zürich
+1751,Untersiggenthal,Baden,Aargau
+1752,Obergoms,Goms,Valais / Wallis
+1753,Herbligen,Appenzell Ausserrhoden,Bern / Berne
+1754,Egnach,Arbon,Thurgau
+1755,Ufhusen,Willisau,Luzern
+1756,Basse-Allaine,Porrentruy,Jura
+1757,Gambarogno,Locarno,Ticino
+1758,Brittnau,Zofingen,Aargau
+1759,Rehetobel,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1760,Bister,Raron,Valais / Wallis
+1761,Echarlens,La Gruyère,Fribourg / Freiburg
+1762,Lenk,Obersimmental-Saanen,Bern / Berne
+1763,Russikon,Pfäffikon,Zürich
+1764,Kleinlützel,Thierstein,Solothurn
+1765,Hitzkirch,Hochdorf,Luzern
+1766,Niederrohrdorf,Baden,Aargau
+1767,Wegenstetten,Rheinfelden,Aargau
+1768,Lohn (SH),Reiat,Schaffhausen
+1769,Chexbres,Lavaux-Oron,Vaud
+1770,Monteceneri,Lugano,Ticino
+1771,Bad Zurzach,Zurzach,Aargau
+1772,Reconvilier,Jura bernois,Bern / Berne
+1773,Brenzikofen,Appenzell Ausserrhoden,Bern / Berne
+1774,Pfungen,Winterthur,Zürich
+1775,Courchavon,Porrentruy,Jura
+1776,Leutwil,Kulm,Aargau
+1777,Villars-le-Terroir,Gros-de-Vaud,Vaud
+1778,Wald (ZH),Hinwil,Zürich
+1779,Andelfingen,Andelfingen,Zürich
+1780,Rüti bei Büren,Seeland,Bern / Berne
+1781,Thayngen,Reiat,Schaffhausen
+1782,Crémines,Jura bernois,Bern / Berne
+1783,Rossenges,Broye-Vully,Vaud
+1784,Freienbach,Höfe,Schwyz
+1785,Siviriez,La Glâne,Fribourg / Freiburg
+1786,Manno,Lugano,Ticino
+1787,Risch,Kanton Zug,Zug
+1788,Dully,Nyon,Vaud
+1789,Beurnevésin,Porrentruy,Jura
+1790,Ogens,Gros-de-Vaud,Vaud
+1791,Sommeri,Arbon,Thurgau
+1792,Seegräben,Hinwil,Zürich
+1793,Vernate,Lugano,Ticino
+1794,Bourg-en-Lavaux,Lavaux-Oron,Vaud
+1795,Tenniken,Sissach,Basel-Landschaft
+1796,Brünisried,Sense,Fribourg / Freiburg
+1797,Wilchingen,Unterklettgau,Schaffhausen
+1798,Knonau,Affoltern,Zürich
+1799,Treycovagnes,Jura-Nord vaudois,Vaud
+1800,Fribourg,La Sarine,Fribourg / Freiburg
+1801,Schmerikon,See-Gaster,St. Gallen
+1802,Fehraltorf,Pfäffikon,Zürich
+1803,Schenkon,Sursee,Luzern
+1804,Rüte,Kanton Appenzell Innerrhoden,Appenzell Innerrhoden
+1805,Bioley-Orjulaz,Gros-de-Vaud,Vaud
+1806,Balm bei Günsberg,Lebern,Solothurn
+1807,Corminboeuf,La Sarine,Fribourg / Freiburg
+1808,Bärschwil,Thierstein,Solothurn
+1809,Alpthal,Schwyz,Schwyz
+1810,Teufenthal (AG),Kulm,Aargau
+1811,Widnau,Rheintal,St. Gallen
+1812,Arboldswil,Waldenburg,Basel-Landschaft
+1813,Bellikon,Baden,Aargau
+1814,Avusy,Canton de Genève,Genève
+1815,Eptingen,Waldenburg,Basel-Landschaft
+1816,Wolfwil,Gäu,Solothurn
+1817,Santa Maria in Calanca,Moesa,Graubünden / Grigioni / Grischun
+1818,Collex-Bossy,Canton de Genève,Genève
+1819,Rossemaison,Delémont,Jura
+1820,Gurzelen,Thun,Bern / Berne
+1821,Neuheim,Kanton Zug,Zug
+1822,Aarwangen,Oberaargau,Bern / Berne
+1823,Lyss,Seeland,Bern / Berne
+1824,Lengnau (BE),Biel/Bienne,Bern / Berne
+1825,Hildisrieden,Sursee,Luzern
+1826,Oberdorf (BL),Waldenburg,Basel-Landschaft
+1827,Dielsdorf,Dielsdorf,Zürich
+1828,Martigny-Combe,Martigny,Valais / Wallis
+1829,Corcelles (BE),Jura bernois,Bern / Berne
+1830,Ennetbürgen,Kanton Nidwalden,Nidwalden
+1831,Duillier,Nyon,Vaud
+1832,Winkel,Bülach,Zürich
+1833,Schnottwil,Bucheggberg,Solothurn
+1834,Cossonay,Morges,Vaud
+1835,Visp,Visp,Valais / Wallis
+1836,Schwaderloch,Laufenburg,Aargau
+1837,Ehrendingen,Baden,Aargau
+1838,Roggenburg,Laufen,Basel-Landschaft
+1839,Greppen,Luzern-Land,Luzern
+1840,Leysin,Aigle,Vaud
+1841,Minusio,Locarno,Ticino
+1842,Vex,Hérens,Valais / Wallis
+1843,Aarburg,Zofingen,Aargau
+1844,Uesslingen-Buch,Frauenfeld,Thurgau
+1845,Unterentfelden,Aarau,Aargau
+1846,Riggisberg,Appenzell Ausserrhoden,Bern / Berne
+1847,Zillis-Reischen,Hinterrhein,Graubünden / Grigioni / Grischun
+1848,Lutzenberg,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1849,Bretzwil,Waldenburg,Basel-Landschaft
+1850,Avers,Hinterrhein,Graubünden / Grigioni / Grischun
+1851,Burtigny,Nyon,Vaud
+1852,Ballaigues,Jura-Nord vaudois,Vaud
+1853,Dagmersellen,Willisau,Luzern
+1854,Obermumpf,Rheinfelden,Aargau
+1855,Epsach,Seeland,Bern / Berne
+1856,Rapperswil (BE),Seeland,Bern / Berne
+1857,Selzach,Lebern,Solothurn
+1858,Meinier,Canton de Genève,Genève
+1859,Scharans,Hinterrhein,Graubünden / Grigioni / Grischun
+1860,La Sagne,La Chaux-de-Fonds,Neuchâtel
+1861,Onex,Canton de Genève,Genève
+1862,Bolligen,Appenzell Ausserrhoden,Bern / Berne
+1863,Lufingen,Bülach,Zürich
+1864,Billens-Hennens,La Glâne,Fribourg / Freiburg
+1865,Beringen,Schaffhausen,Schaffhausen
+1866,Gondiswil,Oberaargau,Bern / Berne
+1867,Oberglatt,Dielsdorf,Zürich
+1868,Cuarnens,Morges,Vaud
+1869,Feuerthalen,Andelfingen,Zürich
+1870,Alle,Porrentruy,Jura
+1871,Sagogn,Surselva,Graubünden / Grigioni / Grischun
+1872,Bachenbülach,Bülach,Zürich
+1873,Orpund,Biel/Bienne,Bern / Berne
+1874,Kaiserstuhl,Zurzach,Aargau
+1875,Schönenwerd,Olten,Solothurn
+1876,Innertkirchen,Interlaken-Oberhasli,Bern / Berne
+1877,Rheinfelden,Rheinfelden,Aargau
+1878,Schongau,Hochdorf,Luzern
+1879,Boswil,Muri,Aargau
+1880,Vugelles-La Mothe,Jura-Nord vaudois,Vaud
+1881,Schleinikon,Dielsdorf,Zürich
+1882,Vitznau,Luzern-Land,Luzern
+1883,Savigny,Lavaux-Oron,Vaud
+1884,Massonnens,La Glâne,Fribourg / Freiburg
+1885,Gordola,Locarno,Ticino
+1886,Hilterfingen,Thun,Bern / Berne
+1887,Avully,Canton de Genève,Genève
+1888,La Neuveville,Jura bernois,Bern / Berne
+1889,Eschenz,Frauenfeld,Thurgau
+1890,Seewis im Prättigau,Prättigau-Davos,Graubünden / Grigioni / Grischun
+1891,La Rippe,Nyon,Vaud
+1892,Canobbio,Lugano,Ticino
+1893,Jonen,Bremgarten,Aargau
+1894,Triengen,Sursee,Luzern
+1895,Zermatt,Visp,Valais / Wallis
+1896,Niederwil (AG),Bremgarten,Aargau
+1897,Courtedoux,Porrentruy,Jura
+1898,Corsier (GE),Canton de Genève,Genève
+1899,Buckten,Sissach,Basel-Landschaft
+1900,Schlossrued,Kulm,Aargau
+1901,Puidoux,Lavaux-Oron,Vaud
+1902,Corbeyrier,Aigle,Vaud
+1903,Gais,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1904,Cadenazzo,Bellinzona,Ticino
+1905,Tägerig,Bremgarten,Aargau
+1906,Urdorf,Dietikon,Zürich
+1907,Avenches,Broye-Vully,Vaud
+1908,Ellikon an der Thur,Winterthur,Zürich
+1909,Lindau,Pfäffikon,Zürich
+1910,Lommis,Münchwilen,Thurgau
+1911,Rueyres,Gros-de-Vaud,Vaud
+1912,Montanaire,Gros-de-Vaud,Vaud
+1913,Le Châtelard,La Glâne,Fribourg / Freiburg
+1914,Pont-en-Ogoz,La Gruyère,Fribourg / Freiburg
+1915,Buchs (ZH),Dielsdorf,Zürich
+1916,Châtel-sur-Montsalvens,La Gruyère,Fribourg / Freiburg
+1917,Saint-Maurice,Saint-Maurice,Valais / Wallis
+1918,Bubikon,Hinwil,Zürich
+1919,Gruyères,La Gruyère,Fribourg / Freiburg
+1920,S-chanf,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1921,Samnaun,Inn,Graubünden / Grigioni / Grischun
+1922,Rifferswil,Affoltern,Zürich
+1923,Safenwil,Zofingen,Aargau
+1924,Erschwil,Thierstein,Solothurn
+1925,Loveresse,Jura bernois,Bern / Berne
+1926,Montagny (FR),La Broye,Fribourg / Freiburg
+1927,Müllheim,Frauenfeld,Thurgau
+1928,Saas-Balen,Visp,Valais / Wallis
+1929,Meisterschwanden,Lenzburg,Aargau
+1930,Cartigny,Canton de Genève,Genève
+1931,Stadel,Dielsdorf,Zürich
+1932,Hägglingen,Bremgarten,Aargau
+1933,Moosleerau,Zofingen,Aargau
+1934,Birrwil,Kulm,Aargau
+1935,Les Clées,Jura-Nord vaudois,Vaud
+1936,Niedermuhlern,Appenzell Ausserrhoden,Bern / Berne
+1937,Mammern,Frauenfeld,Thurgau
+1938,Thundorf,Frauenfeld,Thurgau
+1939,Sisikon,Kanton Uri,Uri
+1940,Olsberg,Rheinfelden,Aargau
+1941,Bavois,Jura-Nord vaudois,Vaud
+1942,Corsier-sur-Vevey,Riviera-Pays-d'Enhaut,Vaud
+1943,Bursins,Nyon,Vaud
+1944,Saint-Oyens,Morges,Vaud
+1945,Cottens (VD),Morges,Vaud
+1946,Erlen,Weinfelden,Thurgau
+1947,Balgach,Rheintal,St. Gallen
+1948,Homburg,Frauenfeld,Thurgau
+1949,Lützelflüh,Emmental,Bern / Berne
+1950,Binningen,Arlesheim,Basel-Landschaft
+1951,Ziefen,Liestal,Basel-Landschaft
+1952,Birsfelden,Arlesheim,Basel-Landschaft
+1953,Untereggen,Rorschach,St. Gallen
+1954,Densbüren,Aarau,Aargau
+1955,Fiez,Jura-Nord vaudois,Vaud
+1956,Rochefort,Boudry,Neuchâtel
+1957,Sorvilier,Jura bernois,Bern / Berne
+1958,Illnau-Effretikon,Pfäffikon,Zürich
+1959,Luterbach,Wasseramt,Solothurn
+1960,Saint-Prex,Morges,Vaud
+1961,Bettens,Gros-de-Vaud,Vaud
+1962,Corbières,La Gruyère,Fribourg / Freiburg
+1963,Beinwil (SO),Thierstein,Solothurn
+1964,Arni (AG),Bremgarten,Aargau
+1965,Burg (AG),Kulm,Aargau
+1966,Pont-la-Ville,La Gruyère,Fribourg / Freiburg
+1967,Steinmaur,Dielsdorf,Zürich
+1968,Court,Jura bernois,Bern / Berne
+1969,Saas-Almagell,Visp,Valais / Wallis
+1970,Rivaz,Lavaux-Oron,Vaud
+1971,Graben,Oberaargau,Bern / Berne
+1972,Staldenried,Visp,Valais / Wallis
+1973,Mühlau,Muri,Aargau
+1974,Nebikon,Willisau,Luzern
+1975,Ascona,Locarno,Ticino
+1976,Waldstatt,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1977,Gansingen,Laufenburg,Aargau
+1978,Lumino,Bellinzona,Ticino
+1979,Birr,Brugg,Aargau
+1980,Langnau am Albis,Horgen,Zürich
+1981,Brusino Arsizio,Lugano,Ticino
+1982,Romanel-sur-Morges,Morges,Vaud
+1983,Cologny,Canton de Genève,Genève
+1984,Boncourt,Porrentruy,Jura
+1985,Troistorrents,Monthey,Valais / Wallis
+1986,Zumikon,Meilen,Zürich
+1987,Adlikon,Andelfingen,Zürich
+1988,Trimbach,Gösgen,Solothurn
+1989,Bürglen (TG),Weinfelden,Thurgau
+1990,Schmiedrued,Kulm,Aargau
+1991,Wynigen,Emmental,Bern / Berne
+1992,Wolhusen,Entlebuch,Luzern
+1993,Le Landeron,Neuchâtel,Neuchâtel
+1994,Pontresina,Maloja / Maloggia,Graubünden / Grigioni / Grischun
+1995,Grub (AR),Appenzell Ausserrhoden,Appenzell Ausserrhoden
+1996,Melchnau,Oberaargau,Bern / Berne
+1997,Roggwil (BE),Oberaargau,Bern / Berne
+1998,Langendorf,Lebern,Solothurn
+1999,Biglen,Appenzell Ausserrhoden,Bern / Berne
+2000,Rue,La Glâne,Fribourg / Freiburg
+2001,Hirschthal,Aarau,Aargau
+2002,Matran,La Sarine,Fribourg / Freiburg
+2003,Killwangen,Baden,Aargau
+2004,Unterramsern,Bucheggberg,Solothurn
+2005,Bulle,La Gruyère,Fribourg / Freiburg
+2006,Disentis/Mustér,Surselva,Graubünden / Grigioni / Grischun
+2007,Brienz (BE),Interlaken-Oberhasli,Bern / Berne
+2008,Lonay,Morges,Vaud
+2009,Maienfeld,Landquart,Graubünden / Grigioni / Grischun
+2010,Quinto,Leventina,Ticino
+2011,Waldkirch,St. Gallen,St. Gallen
+2012,Dörflingen,Reiat,Schaffhausen
+2013,Grüsch,Prättigau-Davos,Graubünden / Grigioni / Grischun
+2014,Erlinsbach (AG),Aarau,Aargau
+2015,Reitnau,Zofingen,Aargau
+2016,Villigen,Brugg,Aargau
+2017,Rickenbach (LU),Sursee,Luzern
+2018,Valeyres-sous-Montagny,Jura-Nord vaudois,Vaud
+2019,Curtilles,Broye-Vully,Vaud
+2020,Bougy-Villars,Morges,Vaud
